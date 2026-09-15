@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/PORTFOLIO-tauqeermustafa.tech-0D1117?style=for-the-badge&labelColor=1C69D4&logo=googlechrome&logoColor=white" /></a>
+<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Business-tauqeermustafa.tech-0D1117?style=for-the-badge&labelColor=1C69D4&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/EMAIL-Get_in_Touch-0D1117?style=for-the-badge&labelColor=1C69D4&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&labelColor=1C69D4&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GITHUB-Follow-0D1117?style=for-the-badge&labelColor=1C69D4&logo=github&logoColor=white" /></a>
