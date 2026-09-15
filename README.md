@@ -79,10 +79,17 @@
 
 <br><br>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=3000&color=0066B1&vCenter=true&width=600&height=40&lines=//+TELEMETRY_%26_METRICS;LIVE+PERFORMANCE+DATA" alt="Analytics" />
+### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=3000&color=0066B1&vCenter=true&width=600&height=40&lines=//+ACHIEVEMENTS_%26_METRICS;LIVE+PERFORMANCE+DATA" alt="Analytics" />
 
 <div align="center">
   
+  <!-- ACHIEVEMENTS & TROPHIES -->
+  <a href="https://github.com/TauqeerMustafa?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
+  <br><br>
+
   <!-- ANIMATED ACTIVITY GRAPH -->
   <a href="https://github.com/TauqeerMustafa">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&bg_color=000000&color=1c69d4&line=e22718&point=ffffff&area=true&hide_border=true&border_radius=0" alt="Activity Graph" width="100%" />
