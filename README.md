@@ -21,17 +21,28 @@
 
 <img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=1c69d4&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<sub>
+<a href="#profile">Profile</a> &nbsp;·&nbsp;
+<a href="#what-i-do">What I Do</a> &nbsp;·&nbsp;
+<a href="#open-source-tooling">Tooling</a> &nbsp;·&nbsp;
+<a href="#technical-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#github-analytics">Analytics</a> &nbsp;·&nbsp;
+<a href="#credentials--recognition">Credentials</a> &nbsp;·&nbsp;
+<a href="#contact">Contact</a>
+</sub>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<br/>
+<a id="profile"></a>
+## 01 · Profile
 
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
-
-## Profile
 
 I'm a **BS Cybersecurity** student at Air University Islamabad and founder of **Tauqeer Mustafa Inc. (TMI)** — a cybersecurity and technology consultancy in Islamabad, Pakistan, built to bring enterprise-grade security practices to small and mid-sized businesses that are usually priced out of them.
 
@@ -51,7 +62,11 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 </td>
 <td width="40%" valign="top">
 
-### Quick Facts
+<div align="center">
+
+**Quick Facts**
+
+</div>
 
 | | |
 |---|---|
@@ -73,27 +88,28 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## What I Do
+<a id="what-i-do"></a>
+## 02 · What I Do
 
 <table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/shieldsdotio/1C69D4" width="36"/>
+<img src="https://cdn.simpleicons.org/shieldsdotio/1C69D4" width="34"/>
 <h4>Security Audits</h4>
 <sub>Vulnerability assessment and hardening for SME infrastructure.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/fireship/1C69D4" width="36"/>
+<img src="https://cdn.simpleicons.org/fireship/1C69D4" width="34"/>
 <h4>Incident Response</h4>
 <sub>Investigation, containment, and post-incident remediation.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/checkmarx/1C69D4" width="36"/>
+<img src="https://cdn.simpleicons.org/checkmarx/1C69D4" width="34"/>
 <h4>Compliance</h4>
 <sub>Mapping SME operations to recognized security frameworks.</sub>
 </td>
 <td width="25%" align="center" valign="top">
-<img src="https://cdn.simpleicons.org/googlechrome/1C69D4" width="36"/>
+<img src="https://cdn.simpleicons.org/googlechrome/1C69D4" width="34"/>
 <h4>Web Development</h4>
 <sub>Secure, production-grade websites and client platforms.</sub>
 </td>
@@ -102,11 +118,19 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<a id="open-source-tooling"></a>
+## 03 · Open-Source Tooling
+
+<div align="center"><sub>28 dependency-light CLI tools across 5 domains — each scoped to solve a single problem well.</sub></div>
+<br/>
+
 <div align="center">
 
-## Open-Source Tooling
-
-<sub>Production-focused, dependency-light CLI tools — each one scoped to solve a single problem well.</sub>
+<img src="https://img.shields.io/badge/Git_%26_Workflow-7_tools-0D1117?style=flat-square&labelColor=F05032" />
+<img src="https://img.shields.io/badge/DevOps_%26_Infra-7_tools-0D1117?style=flat-square&labelColor=2496ED" />
+<img src="https://img.shields.io/badge/Security_%26_Crypto-7_tools-0D1117?style=flat-square&labelColor=E22718" />
+<img src="https://img.shields.io/badge/Data_%26_DB-5_tools-0D1117?style=flat-square&labelColor=003B57" />
+<img src="https://img.shields.io/badge/AI_%26_Productivity-4_tools-0D1117?style=flat-square&labelColor=1C69D4" />
 
 </div>
 <br/>
@@ -193,26 +217,41 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Technical Stack
+<a id="technical-stack"></a>
+## 04 · Technical Stack
 
 <div align="center">
 
+<table>
+<tr><td align="center">
+
+**Languages**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=py,ts,js,go,sql,bash,html,css&theme=dark&perline=8" alt="Languages" />
-<br/><sub>Languages</sub>
-<br/><br/>
 
+</td></tr>
+<tr><td align="center">
+
+**Infrastructure & DevOps**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,aws&theme=dark&perline=6" alt="Infrastructure" />
-<br/><sub>Infrastructure & DevOps</sub>
-<br/><br/>
 
+</td></tr>
+<tr><td align="center">
+
+**Data, Security & Tooling**
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,figma,kali,ubuntu&theme=dark&perline=6" alt="Tools" />
-<br/><sub>Data, Security & Tooling</sub>
+
+</td></tr>
+</table>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## GitHub Analytics
+<a id="github-analytics"></a>
+## 05 · GitHub Analytics
 
 <div align="center">
 
@@ -220,10 +259,12 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=BBBBBB&icon_color=1C69D4&border_radius=10" alt="GitHub Stats" height="175" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=1C69D4&fire=1C69D4&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" height="175"/>
-
-<br/>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=BBBBBB&icon_color=1C69D4&border_radius=10" alt="GitHub Stats" height="175" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=1C69D4&fire=1C69D4&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" height="175"/></td>
+</tr>
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=BBBBBB&langs_count=8" alt="Top Languages" height="200" />
 
@@ -239,22 +280,23 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Credentials & Recognition
+<a id="credentials--recognition"></a>
+## 06 · Credentials & Recognition
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/google/4285F4" width="32"/><br/>
+<img src="https://cdn.simpleicons.org/google/4285F4" width="30"/><br/>
 <b>Google</b><br/><sub>Cybersecurity Certificate</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/microsoft/00A4EF" width="32"/><br/>
+<img src="https://cdn.simpleicons.org/microsoft/00A4EF" width="30"/><br/>
 <b>Microsoft</b><br/><sub>Cybersecurity Certificate</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="32"/><br/>
+<img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="30"/><br/>
 <b>Air University</b><br/><sub>Honhaar Merit Scholar</sub>
 </td>
 </tr>
@@ -262,18 +304,19 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <br/>
 
-**Peer-Reviewed Publications**
-
-Co-author — *Clinical Infectious Diseases* (2023)
-Co-author — *Expert Review of Anti-infective Therapy* (2023)
+| Publication | Venue | Year |
+|---|---|:---:|
+| Co-authored research article | *Clinical Infectious Diseases* | 2023 |
+| Co-authored research article | *Expert Review of Anti-infective Therapy* | 2023 |
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<div align="center">
+<a id="contact"></a>
+## 07 · Contact
 
-## Let's Build Something
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=1C69D4&center=true&vCenter=true&width=620&height=35&lines=Open+to+enterprise+consulting;Open+to+security+partnerships;Open+to+collaborative+tooling+projects" />
 
