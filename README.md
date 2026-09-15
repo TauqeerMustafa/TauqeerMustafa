@@ -1,19 +1,22 @@
 <div align="center">
 
-# Tauqeer Mustafa
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&customColorList=0,2,3,5,6&text=Tauqeer%20Mustafa&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security%20Consultant%20%C2%B7%20Founder%20%40%20TMI&descAlignY=58&descSize=18&descColor=8B949E" width="100%" />
 
-**Full-Stack Engineer · Security Consultant · Founder @ TMI**
+<p>
+  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:hello@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=flat-square)](https://tauqeer.me)
-[![Agency](https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=flat-square)](https://tauqeermustafa.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauqeer-mustafa)
-[![X](https://img.shields.io/badge/X-Follow-000?style=flat-square&logo=x&logoColor=white)](https://x.com/tauqeermustafa)
+<img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&color=58A6FF&style=flat-square&label=Profile+Views" />
 
 </div>
 
 <br/>
 
-## About
+## <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="24" valign="middle"/> About
 
 Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and run **[Tauqeer Mustafa Inc.](https://tauqeermustafa.tech)**, a digital agency delivering web development, cybersecurity, cloud engineering, and AI solutions.
 
@@ -30,13 +33,13 @@ Status:      Open to select projects
 
 <br/>
 
-## What I Do
+## <img src="https://img.icons8.com/fluency/28/briefcase.png" width="24" valign="middle"/> What I Do
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Build**
+### <img src="https://img.icons8.com/fluency/22/web.png" width="18" valign="middle"/> Build
 - Secure web platforms, portals, dashboards (Next.js, React, FastAPI)
 - API design and backend architecture
 - AI automation and LLM-backed workflows
@@ -46,7 +49,7 @@ Status:      Open to select projects
 </td>
 <td width="50%" valign="top">
 
-**Secure**
+### <img src="https://img.icons8.com/fluency/22/shield.png" width="18" valign="middle"/> Secure
 - Security posture reviews and audits
 - Threat modeling and vulnerability assessment
 - Penetration testing — web, network, cloud
@@ -59,30 +62,32 @@ Status:      Open to select projects
 
 <br/>
 
-## Tech Stack
+## <img src="https://img.icons8.com/fluency/28/toolbox.png" width="24" valign="middle"/> Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=typescript,python,go,javascript,bash&theme=dark" /></p>
-
-**Frameworks & Platforms**
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,graphql&theme=dark" /></p>
-
-**Infrastructure & DevOps**
-<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions&theme=dark" /></p>
-
-**Security Tools**
-
-| Category | Tools |
-|:--|:--|
-| Reconnaissance | Nmap, Whois, DNS tools |
-| Web Testing | Burp Suite, OWASP ZAP |
-| Scanning | Nessus (learning), OpenVAS |
-| Analysis | Wireshark, tcpdump |
-| OS | Kali Linux, Ubuntu |
+<table width="100%">
+<tr><td width="25%"><strong><img src="https://img.icons8.com/fluency/20/source-code.png" width="16" valign="middle"/> Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=typescript,python,go,javascript,bash&theme=dark" /></td></tr>
+<tr><td><strong><img src="https://img.icons8.com/fluency/20/module.png" width="16" valign="middle"/> Frameworks</strong></td>
+<td><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,graphql&theme=dark" /></td></tr>
+<tr><td><strong><img src="https://img.icons8.com/fluency/20/cloud-development.png" width="16" valign="middle"/> Infra & DevOps</strong></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions&theme=dark" /></td></tr>
+</table>
 
 <br/>
 
-## Notable Projects
+<strong><img src="https://img.icons8.com/fluency/20/lock-2.png" width="16" valign="middle"/> Security Toolkit</strong>
+
+<div align="center">
+
+| <img src="https://img.icons8.com/fluency/18/search.png" width="14"/> Recon | <img src="https://img.icons8.com/fluency/18/security-checked.png" width="14"/> Web Testing | <img src="https://img.icons8.com/fluency/18/radar-plot.png" width="14"/> Scanning | <img src="https://img.icons8.com/fluency/18/graph.png" width="14"/> Analysis | <img src="https://img.icons8.com/fluency/18/console.png" width="14"/> OS |
+|:--:|:--:|:--:|:--:|:--:|
+| Nmap · Whois · DNS tools | Burp Suite · OWASP ZAP | Nessus (learning) · OpenVAS | Wireshark · tcpdump | Kali Linux · Ubuntu |
+
+</div>
+
+<br/>
+
+## <img src="https://img.icons8.com/fluency/28/star.png" width="24" valign="middle"/> Notable Projects
 
 <table>
 <tr>
@@ -97,12 +102,20 @@ Status:      Open to select projects
 
 <br/>
 
-## Open Source CLI Tools
+## <img src="https://img.icons8.com/fluency/28/open-source.png" width="24" valign="middle"/> Open Source CLI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Tools-50+-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-8B949E?style=for-the-badge" />
+</p>
 
 Small, focused command-line utilities for developers and security practitioners. Python, MIT licensed.
 
+<br/>
+
 <details open>
-<summary><strong>Security & Networking</strong></summary>
+<summary><strong><img src="https://img.icons8.com/fluency/20/lock-2.png" width="16" valign="middle"/> Security & Networking</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -123,7 +136,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>Git & Workflow</strong></summary>
+<summary><strong><img src="https://img.icons8.com/fluency/20/merge-git.png" width="16" valign="middle"/> Git & Workflow</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -141,7 +154,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>DevOps & Infrastructure</strong></summary>
+<summary><strong><img src="https://img.icons8.com/fluency/20/docker.png" width="16" valign="middle"/> DevOps & Infrastructure</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -156,7 +169,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>Data & Conversion</strong></summary>
+<summary><strong><img src="https://img.icons8.com/fluency/20/database.png" width="16" valign="middle"/> Data & Conversion</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -174,7 +187,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>Productivity & Misc</strong></summary>
+<summary><strong><img src="https://img.icons8.com/fluency/20/bot.png" width="16" valign="middle"/> Productivity & Misc</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -196,7 +209,7 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## GitHub Stats
+## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24" valign="middle"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
@@ -208,17 +221,27 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## Get in Touch
+## <img src="https://img.icons8.com/fluency/28/new-post.png" width="24" valign="middle"/> Get in Touch
 
 <p align="center">
-  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge" /></a>
-  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge" /></a>
+  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:hello@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-hello@tauqeermustafa.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <div align="center">
+
+```
 Open for select projects, collaborations, and security consulting.
 If any of my tools are useful to you, feel free to open issues or PRs.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&customColorList=0,2,3,5,6&section=footer&fontSize=0" width="100%" />
+
+<sub>Full-Stack Engineer and Security Consultant — Islamabad, PK / Harrow, UK</sub>
+
 </div>
