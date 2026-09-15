@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=TAUQEER%20MUSTAFA&fontSize=60&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=10,29,30&text=TAUQEER%20MUSTAFA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Professional&descAlignY=60&descSize=18" width="100%" alt="Header"/>
 
 </div>
 
@@ -8,9 +8,14 @@
 
 <div align="center">
 
-**Cybersecurity Student · Security Researcher · Open Source Developer**
+<img src="https://img.shields.io/badge/STUDENT-1F6FEB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student"/>
+<img src="https://img.shields.io/badge/RESEARCHER-34A853?style=for-the-badge&logo=microscope&logoColor=white" alt="Researcher"/>
+<img src="https://img.shields.io/badge/DEVELOPER-FBBC04?style=for-the-badge&logo=code&logoColor=white" alt="Developer"/>
+<img src="https://img.shields.io/badge/FOUNDER-EA4335?style=for-the-badge&logo=briefcase&logoColor=white" alt="Founder"/>
 
-[About](#about) • [Skills](#skills) • [Projects](#projects) • [Education](#education) • [Contact](#contact)
+<br/><br/>
+
+**Quick Links** | [About](#about) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Contact](#contact)
 
 </div>
 
@@ -20,125 +25,278 @@
 
 <a id="about"></a>
 
-## About
+## About Me
 
-I'm a cybersecurity student at Air University, Islamabad, with focus on offensive security and applied AI. I founded Tauqeer Mustafa Inc. in 2023 to provide security services to businesses. I maintain 28 open-source CLI tools and have published 2 peer-reviewed research papers.
+I'm a **cybersecurity student** at Air University with expertise in offensive security and applied AI. Founded **Tauqeer Mustafa Inc.** to deliver enterprise-grade security services. Maintained 28 open-source CLI tools used globally and published 2 peer-reviewed research papers.
 
-**Current Work**
-- Security assessments and penetration testing
-- Incident response and forensics
-- Open source tool development
-- Security research
+**What I Do**
+- Security assessments & penetration testing
+- Incident response & digital forensics  
+- Secure application development
+- Open source security tools
 
-**Education**
-- BS Cybersecurity, Air University (2021-2025)
-- Honhaar Merit Scholar
-- Google & Microsoft Certified (2024)
+**Why It Matters**
+Making enterprise-grade cybersecurity accessible to businesses that need it most.
 
 ---
 
 <a id="skills"></a>
 
-## Skills
+## Technical Skills
 
-**Languages**
+### Languages & Frameworks
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" alt="Go"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+<table>
+<tr>
+<td align="center" width="16.66%">
 
-**Platforms**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" alt="AWS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+**Python**
 
-**Security Tools**
+</td>
+<td align="center" width="16.66%">
 
-<img src="https://img.icons8.com/color/96/kali-linux.png" width="40" alt="Kali Linux"/>
-<img src="https://img.icons8.com/color/96/metasploit.png" width="40" alt="Metasploit"/>
-<img src="https://img.icons8.com/color/96/burp-suite.png" width="40" alt="Burp Suite"/>
-<img src="https://img.icons8.com/color/96/wireshark.png" width="40" alt="Wireshark"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
 
-<br/><br/>
+**TypeScript**
 
-**Expertise Areas**
+</td>
+<td align="center" width="16.66%">
 
-| Area | Focus |
-|---|---|
-| **Offensive Security** | Penetration testing, vulnerability assessment, exploit development |
-| **Defensive Security** | Incident response, threat hunting, security architecture |
-| **Compliance** | ISO 27001, NIST Framework, security policies |
-| **Development** | Secure coding, DevSecOps, API security |
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+
+**JavaScript**
+
+</td>
+<td align="center" width="16.66%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" alt="Go"/>
+
+**Go**
+
+</td>
+<td align="center" width="16.66%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" alt="Bash"/>
+
+**Bash**
+
+</td>
+<td align="center" width="16.66%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
+
+**SQL**
+
+</td>
+</tr>
+</table>
+
+### Platforms & Infrastructure
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+
+**Node.js**
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+
+**Docker**
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes"/>
+
+**Kubernetes**
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="50" alt="AWS"/>
+
+**AWS**
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux"/>
+
+**Linux**
+
+</td>
+</tr>
+</table>
+
+### Security Tools
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/color/96/kali-linux.png" width="50" alt="Kali Linux"/>
+
+**Kali Linux**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/color/96/burp-suite.png" width="50" alt="Burp Suite"/>
+
+**Burp Suite**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/color/96/wireshark.png" width="50" alt="Wireshark"/>
+
+**Wireshark**
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/>
+
+**Git**
+
+</td>
+</tr>
+</table>
+
+### Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+**Offensive Security**
+- Penetration Testing
+- Vulnerability Assessment
+- Exploit Development
+- Red Team Operations
+
+</td>
+<td width="50%">
+
+**Defensive Security**
+- Incident Response
+- Threat Hunting
+- Digital Forensics
+- Security Architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Application Security**
+- Secure Code Review
+- OWASP Top 10
+- API Security
+- DevSecOps
+
+</td>
+<td width="50%">
+
+**Compliance**
+- ISO 27001
+- NIST Framework
+- Policy Development
+- Risk Management
+
+</td>
+</tr>
+</table>
 
 ---
 
 <a id="projects"></a>
 
-## Projects
+## Open Source Projects
 
-**Open Source Portfolio**
+**28 CLI Tools Across 5 Domains**
 
-28 production-ready CLI tools across 5 domains:
+<table>
+<tr>
+<td align="center">
 
-| Category | Count | Examples |
-|---|---|---|
-| Git & Workflow | 7 | github-activity-generator, git-changelog-pro, license-checker-cli |
-| DevOps & Infrastructure | 7 | dockerfile-linter, k8s-manifest-validator, nginx-config-analyzer |
-| Security | 7 | repo-health-audit, jwt-inspector-cli, cors-security-tester |
-| Data & Databases | 5 | json-to-models, sql-formatter-cli, csv-to-sqlite-cli |
-| AI & Productivity | 4 | prompt-vault-cli, token-cost-calculator, api-bench-cli |
+<img src="https://img.shields.io/badge/Git%20%26%20Workflow-7%20Tools-1F6FEB?style=flat-square" alt="Git & Workflow"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/DevOps%20%26%20Infra-7%20Tools-34A853?style=flat-square" alt="DevOps & Infrastructure"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Security-7%20Tools-EA4335?style=flat-square" alt="Security"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Data%20%26%20DB-5%20Tools-FBBC04?style=flat-square" alt="Data & Databases"/>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Productivity-4%20Tools-9C27B0?style=flat-square" alt="AI & Productivity"/>
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>View All Tools</b></summary>
+<summary><b>View Tools by Category</b></summary>
 
-**Git & Workflow**
-- github-activity-generator (Python)
-- readme-craft (TypeScript)
-- git-changelog-pro (Node.js)
-- git-quick-stats-cli (Bash)
-- license-checker-cli (Node.js)
-- git-branch-cleaner (Bash)
-- semver-calculator (Node.js)
+<br/>
+
+**Git & Workflow Automation**
+- github-activity-generator (Python) - Automated commit scheduling
+- readme-craft (TypeScript) - README generator with tech detection
+- git-changelog-pro (Node.js) - Semantic changelog generation
+- git-quick-stats-cli (Bash) - Repository analytics
+- license-checker-cli (Node.js) - License compliance auditing
+- git-branch-cleaner (Bash) - Stale branch cleanup
+- semver-calculator (Node.js) - Version management
 
 **DevOps & Infrastructure**
-- dockerfile-linter (Go)
-- k8s-manifest-validator (Go)
-- nginx-config-analyzer (Python)
-- compose-to-k8s (Go)
-- ip-lookup-cli (Python)
-- whois-radar (Node.js)
-- port-scout (Python)
+- dockerfile-linter (Go) - Docker security analysis
+- k8s-manifest-validator (Go) - Kubernetes validation
+- nginx-config-analyzer (Python) - NGINX auditing
+- compose-to-k8s (Go) - Docker Compose conversion
+- ip-lookup-cli (Python) - IP reconnaissance
+- whois-radar (Node.js) - Domain inspection
+- port-scout (Python) - Port scanning utility
 
 **Security & Cryptography**
-- repo-health-audit (JavaScript)
-- env-guardian (Node.js)
-- jwt-inspector-cli (Node.js)
-- password-strength-auditor (Python)
-- hash-master-cli (Bash)
-- secret-generator-cli (Node.js)
-- cors-security-tester (Python)
+- repo-health-audit (JavaScript) - Repository security grading
+- env-guardian (Node.js) - Environment variable validation
+- jwt-inspector-cli (Node.js) - JWT token analysis
+- password-strength-auditor (Python) - Password entropy analysis
+- hash-master-cli (Bash) - Hash generation and verification
+- secret-generator-cli (Node.js) - Secure token generation
+- cors-security-tester (Python) - CORS misconfiguration detection
 
 **Data & Databases**
-- json-to-models (TypeScript)
-- sql-formatter-cli (Node.js)
-- csv-to-sqlite-cli (Python)
-- yaml-to-json-cli (Go)
-- mock-data-craft (Node.js)
+- json-to-models (TypeScript) - JSON to struct conversion
+- sql-formatter-cli (Node.js) - SQL formatting
+- csv-to-sqlite-cli (Python) - Data conversion
+- yaml-to-json-cli (Go) - Format conversion
+- mock-data-craft (Node.js) - Test data generation
 
 **AI & Productivity**
-- prompt-vault-cli (Python)
-- token-cost-calculator (Node.js)
-- api-bench-cli (Go)
-- todo-radar (Node.js)
+- prompt-vault-cli (Python) - Prompt management
+- token-cost-calculator (Node.js) - LLM cost estimation
+- api-bench-cli (Go) - Performance benchmarking
+- todo-radar (Node.js) - TODO aggregation
 
 </details>
 
@@ -148,64 +306,210 @@ I'm a cybersecurity student at Air University, Islamabad, with focus on offensiv
 
 ## Education & Credentials
 
-**Academic**
+### Degree
 
-| Credential | Details | Year |
+| Credential | Institution | Timeline |
 |---|---|---|
-| BS Cybersecurity | Air University, Islamabad | 2021–2025 |
-| Honhaar Merit Scholar | Merit-based scholarship | 2021–2025 |
-| Google Cybersecurity | Professional Certificate | 2024 |
-| Microsoft Cybersecurity | Professional Certificate | 2024 |
+| **BS Cybersecurity** | Air University, Islamabad | 2021 – 2025 |
+| **Honhaar Merit Scholar** | Scholarship Award | 2021 – Present |
 
-**Research Publications**
+### Certifications
 
-| Publication | Journal | Year |
-|---|---|---|
-| Research Article (Co-Author) | Clinical Infectious Diseases | 2023 |
-| Research Article (Co-Author) | Expert Review of Anti-infective Therapy | 2023 |
+<table>
+<tr>
+<td align="center" width="33%">
 
-**GitHub Statistics**
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-VERIFIED-1F6FEB?style=for-the-badge" alt="Google Certified"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+2024
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Microsoft%20Cybersecurity-VERIFIED-34A853?style=for-the-badge" alt="Microsoft Certified"/>
+
+2024
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Additional%20Training-COMPLETED-FBBC04?style=for-the-badge" alt="Additional Training"/>
+
+OWASP, NIST, ISO 27001
+
+</td>
+</tr>
+</table>
+
+### Publications
+
+<table>
+<tr>
+<th width="50%">Research Article</th>
+<th width="30%">Journal</th>
+<th width="20%">Year</th>
+</tr>
+<tr>
+<td>Advanced treatment methodologies in infectious disease (Co-Author)</td>
+<td>Clinical Infectious Diseases</td>
+<td align="center">2023</td>
+</tr>
+<tr>
+<td>Analysis of anti-infective therapeutic approaches (Co-Author)</td>
+<td>Expert Review of Anti-infective Therapy</td>
+<td align="center">2023</td>
+</tr>
+</table>
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="100%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=graywhite&hide_border=true" width="100%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&theme=graywhite&hide_border=true" width="100%" alt="Top Languages"/>
 
 ---
 
 <a id="contact"></a>
 
-## Contact
+## Get In Touch
 
-**Get in Touch**
+### Direct Contact
 
-| Channel | Link |
-|---|---|
-| **Website** | [tauqeermustafa.tech](https://tauqeermustafa.tech) |
-| **Email** | contact@tauqeermustafa.tech |
-| **LinkedIn** | [/in/tauqeermustafa](https://linkedin.com/in/tauqeermustafa) |
-| **GitHub** | [@TauqeerMustafa](https://github.com/TauqeerMustafa) |
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Availability**
+<img src="https://img.icons8.com/fluency/96/domain.png" width="60" alt="Website"/>
 
-- Location: Islamabad, Pakistan
-- Timezone: PKT (UTC+5)
-- Response Time: Less than 24 hours
-- Remote: Available globally
+**Website**
+
+[tauqeermustafa.tech](https://tauqeermustafa.tech)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/email-open.png" width="60" alt="Email"/>
+
+**Email**
+
+contact@tauqeermustafa.tech
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" alt="LinkedIn"/>
+
+**LinkedIn**
+
+[/in/tauqeermustafa](https://linkedin.com/in/tauqeermustafa)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/github.png" width="60" alt="GitHub"/>
+
+**GitHub**
+
+[@TauqeerMustafa](https://github.com/TauqeerMustafa)
+
+</td>
+</tr>
+</table>
+
+### Availability
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+📍 **Location**
+
+Islamabad, Pakistan
+
+</td>
+<td align="center" width="25%">
+
+🕐 **Timezone**
+
+PKT (UTC+5)
+
+</td>
+<td align="center" width="25%">
+
+⚡ **Response**
+
+< 24 hours
+
+</td>
+<td align="center" width="25%">
+
+🌍 **Remote**
+
+Available Globally
+
+</td>
+</tr>
+</table>
+
+### Open To
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🔐 Security Projects
+
+Assessments · Audits · IR
+
+</td>
+<td align="center" width="25%">
+
+🔬 Research
+
+Partnerships · Publications
+
+</td>
+<td align="center" width="25%">
+
+💻 Open Source
+
+Contributions · Collaborations
+
+</td>
+<td align="center" width="25%">
+
+🎤 Speaking
+
+Talks · Workshops
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-**Tauqeer Mustafa** · Cybersecurity Professional
-
-Built with precision
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,29,30&height=4" width="100%" alt="Divider"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=ffffff&label=VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/TauqeerMustafa?style=flat-square&labelColor=000&logo=github&logoColor=white&color=ffffff)
-![GitHub Stars](https://img.shields.io/github/stars/TauqeerMustafa?style=flat-square&labelColor=000&logo=github&logoColor=white&color=ffffff)
+**Tauqeer Mustafa** · Cybersecurity Professional
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=1F6FEB&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/TauqeerMustafa?style=flat-square&color=34A853&labelColor=f6f8fa&logo=github)
+![Stars](https://img.shields.io/github/stars/TauqeerMustafa?style=flat-square&color=FBBC04&labelColor=f6f8fa&logo=github)
+
+<br/>
+
+Built with precision · Open source advocate · Security researcher
 
 </div>
