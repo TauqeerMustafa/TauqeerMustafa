@@ -1,6 +1,6 @@
 <div align="center">
 
-# TAUQEER MUSTAFA INC.
+# TAUQEER MUSTAFA 
 
 <!-- Animated Typing Effect -->
 <a href="https://tauqeermustafa.tech">
