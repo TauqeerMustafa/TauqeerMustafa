@@ -16,7 +16,7 @@
 
 <br/>
 
-## 👤 About
+## <img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square&logo=readthedocs&logoColor=white" height="26"/> About
 
 Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and run **[Tauqeer Mustafa Inc.](https://tauqeermustafa.tech)**, a digital agency delivering web development, cybersecurity, cloud engineering, and AI solutions.
 
@@ -33,13 +33,13 @@ Status:      Open to select projects
 
 <br/>
 
-## 💼 What I Do
+## <img src="https://img.shields.io/badge/-%20-8957E5?style=flat-square&logo=todoist&logoColor=white" height="26"/> What I Do
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Build
+### <img src="https://img.shields.io/badge/-%20-DB6D28?style=flat-square&logo=buildkite&logoColor=white" height="20"/> Build
 - Secure web platforms, portals, dashboards (Next.js, React, FastAPI)
 - API design and backend architecture
 - AI automation and LLM-backed workflows
@@ -49,7 +49,7 @@ Status:      Open to select projects
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Secure
+### <img src="https://img.shields.io/badge/-%20-3FB950?style=flat-square&logo=owasp&logoColor=white" height="20"/> Secure
 - Security posture reviews and audits
 - Threat modeling and vulnerability assessment
 - Penetration testing — web, network, cloud
@@ -62,24 +62,24 @@ Status:      Open to select projects
 
 <br/>
 
-## 🧰 Tech Stack
+## <img src="https://img.shields.io/badge/-%20-58A6FF?style=flat-square&logo=stackshare&logoColor=white" height="26"/> Tech Stack
 
 <table width="100%">
-<tr><td width="22%"><strong>💻 Languages</strong></td>
+<tr><td width="22%"><strong>Languages</strong></td>
 <td><img src="https://skillicons.dev/icons?i=typescript,python,go,javascript,bash&theme=dark" /></td></tr>
-<tr><td><strong>🧩 Frameworks</strong></td>
+<tr><td><strong>Frameworks</strong></td>
 <td><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,graphql&theme=dark" /></td></tr>
-<tr><td><strong>☁️ Infra & DevOps</strong></td>
+<tr><td><strong>Infra & DevOps</strong></td>
 <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions&theme=dark" /></td></tr>
 </table>
 
 <br/>
 
-**🔐 Security Toolkit**
+<strong><img src="https://img.shields.io/badge/-%20-39D2C0?style=flat-square&logo=hackthebox&logoColor=white" height="22"/> Security Toolkit</strong>
 
 <div align="center">
 
-| 🔍 Recon | 🕸️ Web Testing | 📡 Scanning | 📈 Analysis | 🖥️ OS |
+| Recon | Web Testing | Scanning | Analysis | OS |
 |:--:|:--:|:--:|:--:|:--:|
 | Nmap · Whois · DNS tools | Burp Suite · OWASP ZAP | Nessus (learning) · OpenVAS | Wireshark · tcpdump | Kali Linux · Ubuntu |
 
@@ -87,7 +87,7 @@ Status:      Open to select projects
 
 <br/>
 
-## ⭐ Notable Projects
+## <img src="https://img.shields.io/badge/-%20-F778BA?style=flat-square&logo=github&logoColor=white" height="26"/> Notable Projects
 
 | Project | Description |
 |:--|:--|
@@ -98,7 +98,7 @@ Status:      Open to select projects
 
 <br/>
 
-## 📦 Open Source CLI Tools
+## <img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square&logo=opensourceinitiative&logoColor=white" height="26"/> Open Source CLI Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Tools-50+-58A6FF?style=for-the-badge" />
@@ -111,7 +111,7 @@ Small, focused command-line utilities for developers and security practitioners.
 <br/>
 
 <details open>
-<summary><strong>🔐 Security & Networking</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/-%20-3FB950?style=flat-square&logo=owasp&logoColor=white" height="20"/> Security & Networking</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -132,7 +132,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>🌿 Git & Workflow</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/-%20-DB6D28?style=flat-square&logo=git&logoColor=white" height="20"/> Git & Workflow</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -150,7 +150,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>🐳 DevOps & Infrastructure</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square&logo=docker&logoColor=white" height="20"/> DevOps & Infrastructure</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -165,7 +165,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>🗄️ Data & Conversion</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/-%20-8957E5?style=flat-square&logo=json&logoColor=white" height="20"/> Data & Conversion</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -183,7 +183,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong>🤖 Productivity & Misc</strong></summary>
+<summary><strong><img src="https://img.shields.io/badge/-%20-3FB950?style=flat-square&logo=probot&logoColor=white" height="20"/> Productivity & Misc</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -205,16 +205,16 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://img.shields.io/badge/-%20-58A6FF?style=flat-square&logo=githubactions&logoColor=white" height="26"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&hide_border=true&background=0D1117&ring=58A6FF&fire=EF4444&currStreakLabel=3FB950&sideNums=58A6FF&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E" width="49%" />
 </p>
 
 <br/>
 
-## 📬 Get in Touch
+## <img src="https://img.shields.io/badge/-%20-EA4335?style=flat-square&logo=telegram&logoColor=white" height="26"/> Get in Touch
 
 <p align="center">
   <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
