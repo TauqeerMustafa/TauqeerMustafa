@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=260&section=header&text=Tauqeer%20Mustafa&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Consultant%20%E2%80%A2%20Founder%2C%20TMI%20%E2%80%A2%20Security%20%26%20Systems%20Tooling&descAlignY=58&descSize=16&animation=fadeIn&stroke=1C69D4&strokeWidth=1" width="100%" alt="Tauqeer Mustafa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=260&section=header&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Tauqeer+Mustafa" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=1C69D4&center=true&vCenter=true&width=680&height=40&lines=Cybersecurity+Consultant;Founder%2C+Tauqeer+Mustafa+Inc.;BS+Cybersecurity+%40+Air+University;Offensive+Security+%C3%97+Applied+AI" />
 
 <br/>
 
@@ -13,13 +17,13 @@
 
 <img src="https://img.shields.io/badge/-BS%20CYBERSECURITY-1C69D4?style=flat-square" /> <img src="https://img.shields.io/badge/-AIR%20UNIVERSITY%2C%20ISLAMABAD-1C69D4?style=flat-square" /> <img src="https://img.shields.io/badge/-HONHAAR%20MERIT%20SCHOLAR-1C69D4?style=flat-square" /> <img src="https://img.shields.io/badge/-FOUNDER%2C%20TMI-1C69D4?style=flat-square" />
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=1c69d4&label=PROFILE+VIEWS" />
+
 </div>
 
-<br/>
-
-<picture>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <br/>
 
@@ -59,11 +63,13 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 | **Certifications** | Google · Microsoft |
 | **Publications** | 2 peer-reviewed |
 
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=1C69D4&text_color=BBBBBB&icon_color=1C69D4&border_radius=10&hide_rank=true" width="100%" />
+
 </td>
 </tr>
 </table>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -94,13 +100,15 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 </tr>
 </table>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<div align="center">
 
 ## Open-Source Tooling
 
-<div align="center"><sub>Production-focused, dependency-light CLI tools — each one scoped to solve a single problem well.</sub></div>
+<sub>Production-focused, dependency-light CLI tools — each one scoped to solve a single problem well.</sub>
+
+</div>
 <br/>
 
 <details open>
@@ -183,28 +191,24 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 </details>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## Technical Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,go,sql,bash,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,sql,bash,html,css&theme=dark&perline=8" alt="Languages" />
 <br/><sub>Languages</sub>
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,aws&theme=dark" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,aws&theme=dark&perline=6" alt="Infrastructure" />
 <br/><sub>Infrastructure & DevOps</sub>
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,figma,kali,ubuntu&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,figma,kali,ubuntu&theme=dark&perline=6" alt="Tools" />
 <br/><sub>Data, Security & Tooling</sub>
 
 </div>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -227,9 +231,11 @@ I hold cybersecurity certifications from **Google** and **Microsoft**, and I've 
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TauqeerMustafa&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=BBBBBB&hide=Other" alt="Coding Time" height="175" />
 
-</div>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/TauqeerMustafa"><img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" /></a>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -263,15 +269,13 @@ Co-author — *Expert Review of Anti-infective Therapy* (2023)
 
 </div>
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
 
 ## Let's Build Something
 
-Open to enterprise consulting, security partnerships, and collaborative tooling projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=1C69D4&center=true&vCenter=true&width=620&height=35&lines=Open+to+enterprise+consulting;Open+to+security+partnerships;Open+to+collaborative+tooling+projects" />
 
 <br/>
 
@@ -286,4 +290,4 @@ Open to enterprise consulting, security partnerships, and collaborative tooling 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%" />
