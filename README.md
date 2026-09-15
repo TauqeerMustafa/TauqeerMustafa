@@ -1,6 +1,6 @@
-# Tauqeer Mustafa - Well-Organized Professional Profile
+# Tauqeer Mustafa 
 
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,5,6&text=TAUQEER%20MUSTAFA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20·%20Security%20Researcher%20·%20Open%20Source%20Developer&descAlignY=52&descSize=18" width="100%" />
@@ -1474,7 +1474,5 @@ If you find my tools useful or want to support continued development:
 <sub><a href="#top">⬆️ Back to Top</a></sub>
 
 </div>
-```
 
----
 
