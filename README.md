@@ -11,11 +11,7 @@
 <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
-
 <br/><br/>
-
-<div align="center">
 
 ![](https://img.shields.io/badge/BS_CYBERSECURITY_STUDENT-000000?style=flat)
 ![](https://img.shields.io/badge/AIR_UNIVERSITY-000000?style=flat)
@@ -26,11 +22,11 @@
 
 </div>
 
-<br/><br/><br/>
+<br/>
 
----
+##
 
-<br/><br/>
+<br/>
 
 ## About Me
 
@@ -54,53 +50,45 @@ My research focus sits at the intersection of **offensive security** and **appli
 | **Open Source** | 28 production CLI tools |
 | **Availability** | ![](https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-1EA64A?style=flat) |
 
-<br/><br/><br/>
+<br/>
 
----
-
-<br/><br/>
-
-<div style="background: #DCEEB1; padding: 48px; border-radius: 24px;">
-
-## What I Do
+##
 
 <br/>
 
-I work across four primary areas, combining academic learning with practical security implementation:
+> ### 🛡️ WHAT I DO
+>
+> **I work across four primary areas, combining academic learning with practical security implementation**
 
 <br/>
 
-**SECURITY RESEARCH & TESTING**
+### SECURITY RESEARCH & TESTING
 
 Penetration testing, vulnerability assessments, security audits. I apply offensive security techniques to identify weaknesses in web applications, networks, and APIs—then provide clear, actionable remediation guidance.
 
 <br/>
 
-**INCIDENT RESPONSE & FORENSICS**
+### INCIDENT RESPONSE & FORENSICS
 
 Breach investigation, threat containment, digital forensics. I help organizations understand what happened during a security incident, contain the damage, and build preventive measures to stop it from happening again.
 
 <br/>
 
-**COMPLIANCE & FRAMEWORKS**
+### COMPLIANCE & FRAMEWORKS
 
 ISO 27001, NIST Cybersecurity Framework, OWASP standards. I help businesses align their security practices with recognized frameworks—particularly valuable for organizations pursuing certifications or preparing for audits.
 
 <br/>
 
-**SECURE DEVELOPMENT & TOOLING**
+### SECURE DEVELOPMENT & TOOLING
 
 I build security-first applications and open-source CLI tools. My development work emphasizes OWASP compliance, minimal dependencies, and clean, maintainable code that solves real problems.
 
 <br/>
 
-</div>
+##
 
-<br/><br/><br/>
-
----
-
-<br/><br/>
+<br/>
 
 ## My Journey
 
@@ -149,21 +137,17 @@ Each tool is deliberately scoped to solve one problem well, with minimal depende
 </tr>
 </table>
 
-<br/><br/><br/>
+<br/>
 
----
-
-<br/><br/>
-
-<div style="background: #C5B0F4; padding: 48px; border-radius: 24px;" id="open-source">
-
-## Open Source Portfolio
+##
 
 <br/>
 
-### 28 Dependency-Light CLI Tools
-
-I believe good tools should do one thing exceptionally well. Each of these utilities is deliberately scoped, thoroughly documented, and built for production use.
+> ### 🔧 OPEN SOURCE PORTFOLIO
+>
+> **28 Dependency-Light CLI Tools**
+>
+> I believe good tools should do one thing exceptionally well. Each of these utilities is deliberately scoped, thoroughly documented, and built for production use.
 
 <br/>
 
@@ -177,7 +161,7 @@ I believe good tools should do one thing exceptionally well. Each of these utili
 
 </div>
 
-<br/><br/>
+<br/>
 
 ### GIT & WORKFLOW AUTOMATION
 
@@ -250,23 +234,19 @@ Most tools try to do too much. I wanted utilities that developers could trust to
 
 <br/>
 
-</div>
+##
 
-<br/><br/><br/>
+<br/>
 
----
-
-<br/><br/>
-
-<div style="background: #F4ECD6; padding: 48px; border-radius: 24px;">
-
-## Technical Skills
+> ### 💻 TECHNICAL SKILLS
+>
+> **I work primarily in Python, TypeScript, JavaScript, Go, and Bash**
 
 <br/>
 
 ### Languages & Frameworks
 
-I work primarily in Python, TypeScript, JavaScript, Go, and Bash. I'm comfortable with full-stack development (Node.js, Express, React, Next.js) and backend frameworks (FastAPI, Django, Flask), but my focus is security—building secure systems and finding vulnerabilities in existing ones.
+I'm comfortable with full-stack development (Node.js, Express, React, Next.js) and backend frameworks (FastAPI, Django, Flask), but my focus is security—building secure systems and finding vulnerabilities in existing ones.
 
 <br/>
 
@@ -292,7 +272,7 @@ Docker · Kubernetes · NGINX · Linux · GitHub Actions · AWS · Terraform · 
 
 SQLite · MySQL · PostgreSQL · Redis · MongoDB · Firebase
 
-<br/><br/>
+<br/>
 
 ### Security Expertise
 
@@ -326,13 +306,9 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP · Ghid
 
 <br/>
 
-</div>
+##
 
-<br/><br/><br/>
-
----
-
-<br/><br/>
+<br/>
 
 ## GitHub Activity
 
@@ -340,24 +316,24 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP · Ghid
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 
 <br/><br/>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&include_all_commits=true" width="100%" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&stroke=000000&sideLabels=000000" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&stroke=000000&sideLabels=000000" width="100%" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
@@ -368,15 +344,15 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP · Ghid
 
 </div>
 
-<br/><br/><br/>
+<br/>
 
----
+##
 
-<br/><br/>
+<br/>
 
-<div style="background: #C8E6CD; padding: 48px; border-radius: 24px;">
-
-## Education & Recognition
+> ### 🎓 EDUCATION & RECOGNITION
+>
+> **Academic background, certifications, and research publications**
 
 <br/>
 
@@ -402,7 +378,7 @@ My coursework covers network security, cryptography, secure system design, digit
 ![](https://img.shields.io/badge/EXPECTED_GRADUATION-2025-000000?style=flat)
 ![](https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY_·_AI-000000?style=flat)
 
-<br/><br/>
+<br/>
 
 ### Professional Certifications
 
@@ -424,7 +400,7 @@ My coursework covers network security, cryptography, secure system design, digit
 ![](https://img.shields.io/badge/AWS_CLOUD_SECURITY-000000?style=flat)
 ![](https://img.shields.io/badge/PENETRATION_TESTING-000000?style=flat)
 
-<br/><br/>
+<br/>
 
 ### Research Publications
 
@@ -441,15 +417,9 @@ I co-authored two peer-reviewed research articles during my undergraduate studie
 
 <br/>
 
-</div>
+##
 
-<br/><br/><br/>
-
----
-
-<br/><br/>
-
-<div style="background: #EFD4D4; padding: 48px; border-radius: 24px;">
+<br/>
 
 ## Timeline
 
@@ -471,7 +441,7 @@ Building a practice from scratch has taught me as much as my formal education—
 ![](https://img.shields.io/badge/STUDENT_FOUNDER-000000?style=flat)
 ![](https://img.shields.io/badge/ACTIVE_CLIENTS-000000?style=flat)
 
-<br/><br/>
+<br/>
 
 ### 2021 — PRESENT · Student
 
@@ -489,7 +459,7 @@ Academic work includes two peer-reviewed research publications, participation in
 ![](https://img.shields.io/badge/2_PUBLICATIONS-000000?style=flat)
 ![](https://img.shields.io/badge/EXPECTED_2025-000000?style=flat)
 
-<br/><br/>
+<br/>
 
 ### 2023 — 2024 · Developer
 
@@ -507,7 +477,7 @@ This portfolio represents my approach to software—simple, focused, auditable, 
 ![](https://img.shields.io/badge/5_LANGUAGES-000000?style=flat)
 ![](https://img.shields.io/badge/MIT_LICENSE-1EA64A?style=flat)
 
-<br/><br/>
+<br/>
 
 ### 2024 · Certified
 
@@ -522,7 +492,7 @@ Completed professional cybersecurity certificates from Google and Microsoft, cov
 ![](https://img.shields.io/badge/GOOGLE_VERIFIED-000000?style=flat)
 ![](https://img.shields.io/badge/MICROSOFT_VERIFIED-000000?style=flat)
 
-<br/><br/>
+<br/>
 
 ### 2023 · Published
 
@@ -539,23 +509,15 @@ Co-authored two peer-reviewed research articles published in *Clinical Infectiou
 
 <br/>
 
-</div>
-
-<br/><br/><br/>
-
----
-
-<br/><br/>
-
-<div style="background: #F3C9B6; padding: 48px; border-radius: 24px;">
-
-## Get In Touch
+##
 
 <br/>
 
-I'm open to security research collaborations, penetration testing projects, open-source contributions, speaking opportunities, and consulting engagements. I'm particularly interested in projects that sit at the intersection of offensive security and applied AI.
+> ### 📬 GET IN TOUCH
+>
+> **I'm open to security research collaborations, penetration testing projects, open-source contributions, speaking opportunities, and consulting engagements**
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -566,7 +528,7 @@ I'm open to security research collaborations, penetration testing projects, open
 
 </div>
 
-<br/><br/>
+<br/>
 
 ### What I'm Looking For
 
@@ -579,7 +541,7 @@ I'm open to security research collaborations, penetration testing projects, open
 | Incident response | Paper co-authorship | Feature requests | Technical writing |
 | Compliance advisory | Dataset collaboration | Bug reports | Podcast interviews |
 
-<br/><br/>
+<br/>
 
 ### How I Work
 
@@ -593,7 +555,7 @@ I'm open to security research collaborations, penetration testing projects, open
 
 **Approach** — I prioritize clear communication, thorough documentation, and actionable deliverables
 
-<br/><br/>
+<br/>
 
 ### Support My Work
 
@@ -601,11 +563,11 @@ I'm open to security research collaborations, penetration testing projects, open
 
 If my tools have been useful to you, consider:
 
-- Starring repositories you use
-- Opening issues for bugs or feature requests  
-- Contributing code or documentation
-- Sharing tools with your network
-- Sponsoring continued development
+- ⭐ Starring repositories you use
+- 🐛 Opening issues for bugs or feature requests  
+- 💻 Contributing code or documentation
+- 🔗 Sharing tools with your network
+- 💖 Sponsoring continued development
 
 <br/>
 
@@ -617,13 +579,9 @@ If my tools have been useful to you, consider:
 
 <br/>
 
-</div>
+##
 
-<br/><br/><br/>
-
----
-
-<br/><br/>
+<br/>
 
 <div align="center">
 
@@ -641,4 +599,4 @@ All tools MIT licensed unless otherwise specified
 
 </div>
 
-<br/><br/>
+<br/>
