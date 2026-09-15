@@ -1,6 +1,3 @@
-# Enhanced GitHub README - Beautiful Animated Portfolio
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6,20,25&text=TAUQEER%20MUSTAFA&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Expert%20%7C%20Security%20Researcher%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=25" width="100%" />
