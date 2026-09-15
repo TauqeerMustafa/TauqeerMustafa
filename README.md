@@ -16,7 +16,7 @@
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="24" valign="middle"/> About
+## 👤 About
 
 Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and run **[Tauqeer Mustafa Inc.](https://tauqeermustafa.tech)**, a digital agency delivering web development, cybersecurity, cloud engineering, and AI solutions.
 
@@ -33,13 +33,13 @@ Status:      Open to select projects
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/briefcase.png" width="24" valign="middle"/> What I Do
+## 💼 What I Do
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/22/web.png" width="18" valign="middle"/> Build
+### 🌐 Build
 - Secure web platforms, portals, dashboards (Next.js, React, FastAPI)
 - API design and backend architecture
 - AI automation and LLM-backed workflows
@@ -49,7 +49,7 @@ Status:      Open to select projects
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.icons8.com/fluency/22/shield.png" width="18" valign="middle"/> Secure
+### 🛡️ Secure
 - Security posture reviews and audits
 - Threat modeling and vulnerability assessment
 - Penetration testing — web, network, cloud
@@ -62,24 +62,24 @@ Status:      Open to select projects
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/toolbox.png" width="24" valign="middle"/> Tech Stack
+## 🧰 Tech Stack
 
 <table width="100%">
-<tr><td width="25%"><strong><img src="https://img.icons8.com/fluency/20/source-code.png" width="16" valign="middle"/> Languages</strong></td>
+<tr><td width="22%"><strong>💻 Languages</strong></td>
 <td><img src="https://skillicons.dev/icons?i=typescript,python,go,javascript,bash&theme=dark" /></td></tr>
-<tr><td><strong><img src="https://img.icons8.com/fluency/20/module.png" width="16" valign="middle"/> Frameworks</strong></td>
+<tr><td><strong>🧩 Frameworks</strong></td>
 <td><img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,graphql&theme=dark" /></td></tr>
-<tr><td><strong><img src="https://img.icons8.com/fluency/20/cloud-development.png" width="16" valign="middle"/> Infra & DevOps</strong></td>
+<tr><td><strong>☁️ Infra & DevOps</strong></td>
 <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions&theme=dark" /></td></tr>
 </table>
 
 <br/>
 
-<strong><img src="https://img.icons8.com/fluency/20/lock-2.png" width="16" valign="middle"/> Security Toolkit</strong>
+**🔐 Security Toolkit**
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/18/search.png" width="14"/> Recon | <img src="https://img.icons8.com/fluency/18/security-checked.png" width="14"/> Web Testing | <img src="https://img.icons8.com/fluency/18/radar-plot.png" width="14"/> Scanning | <img src="https://img.icons8.com/fluency/18/graph.png" width="14"/> Analysis | <img src="https://img.icons8.com/fluency/18/console.png" width="14"/> OS |
+| 🔍 Recon | 🕸️ Web Testing | 📡 Scanning | 📈 Analysis | 🖥️ OS |
 |:--:|:--:|:--:|:--:|:--:|
 | Nmap · Whois · DNS tools | Burp Suite · OWASP ZAP | Nessus (learning) · OpenVAS | Wireshark · tcpdump | Kali Linux · Ubuntu |
 
@@ -87,22 +87,18 @@ Status:      Open to select projects
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/star.png" width="24" valign="middle"/> Notable Projects
+## ⭐ Notable Projects
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/TauqeerMustafa/sme-incident-response-playbook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TauqeerMustafa&repo=sme-incident-response-playbook&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/TauqeerMustafa/github-activity-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TauqeerMustafa&repo=github-activity-generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E" width="100%" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/TauqeerMustafa/repo-health-audit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TauqeerMustafa&repo=repo-health-audit&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/TauqeerMustafa/developer-utilities-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TauqeerMustafa&repo=developer-utilities-hub&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B949E" width="100%" /></a></td>
-</tr>
-</table>
+| Project | Description |
+|:--|:--|
+| [**sme-incident-response-playbook**](https://github.com/TauqeerMustafa/sme-incident-response-playbook) | Consultant-grade Incident Response & Containment Playbook for SMEs, aligned with NIST CSF 2.0, NIST SP 800-61 Rev.2, CIS Controls v8, and MITRE ATT&CK |
+| [**repo-health-audit**](https://github.com/TauqeerMustafa/repo-health-audit) | GitHub repository security grading and secret detection |
+| [**github-activity-generator**](https://github.com/TauqeerMustafa/github-activity-generator) | Automated GitHub commit activity engine |
+| [**developer-utilities-hub**](https://github.com/TauqeerMustafa/developer-utilities-hub) | Collected developer utility scripts and tools |
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/open-source.png" width="24" valign="middle"/> Open Source CLI Tools
+## 📦 Open Source CLI Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Tools-50+-58A6FF?style=for-the-badge" />
@@ -115,7 +111,7 @@ Small, focused command-line utilities for developers and security practitioners.
 <br/>
 
 <details open>
-<summary><strong><img src="https://img.icons8.com/fluency/20/lock-2.png" width="16" valign="middle"/> Security & Networking</strong></summary>
+<summary><strong>🔐 Security & Networking</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -136,7 +132,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong><img src="https://img.icons8.com/fluency/20/merge-git.png" width="16" valign="middle"/> Git & Workflow</strong></summary>
+<summary><strong>🌿 Git & Workflow</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -154,7 +150,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong><img src="https://img.icons8.com/fluency/20/docker.png" width="16" valign="middle"/> DevOps & Infrastructure</strong></summary>
+<summary><strong>🐳 DevOps & Infrastructure</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -169,7 +165,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong><img src="https://img.icons8.com/fluency/20/database.png" width="16" valign="middle"/> Data & Conversion</strong></summary>
+<summary><strong>🗄️ Data & Conversion</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -187,7 +183,7 @@ Small, focused command-line utilities for developers and security practitioners.
 </details>
 
 <details>
-<summary><strong><img src="https://img.icons8.com/fluency/20/bot.png" width="16" valign="middle"/> Productivity & Misc</strong></summary>
+<summary><strong>🤖 Productivity & Misc</strong></summary>
 <br/>
 
 | Tool | What it does |
@@ -209,19 +205,16 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/combo-chart.png" width="24" valign="middle"/> GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&hide_border=true&background=0D1117&ring=58A6FF&fire=EF4444&currStreakLabel=3FB950&sideNums=58A6FF&currStreakNum=C9D1D9&sideLabels=8B949E&dates=8B949E" width="49%" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css" width="49%" />
 </p>
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/28/new-post.png" width="24" valign="middle"/> Get in Touch
+## 📬 Get in Touch
 
 <p align="center">
   <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
