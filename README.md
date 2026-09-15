@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&customColorList=0,2,3,5,6&text=Tauqeer%20Mustafa&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%C2%B7%20Python%20Developer%20%C2%B7%20Tool%20Builder&descAlignY=58&descSize=20&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0D1117&customColorList=0,2,3,5,6&text=Tauqeer%20Mustafa&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security%20Consultant%20%C2%B7%20Founder%20%40%20TMI&descAlignY=58&descSize=20&descColor=8B949E" width="100%" />
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GitHub-TauqeerMustafa-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LinkedIn-tauqeermustafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-tauqeer--mustafa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-@tauqeermustafa-000?style=flat-square&logo=x&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&color=58A6FF&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/TauqeerMustafa?style=flat-square&color=58A6FF&logo=github&label=Followers" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -19,31 +20,32 @@
 
 <h2>
   <img src="https://img.icons8.com/fluency/28/user-male-circle.png" width="22" />
-  About Me
+  About
 </h2>
 
-BS Cybersecurity student at **Air University, Islamabad** with a focus on offensive security, secure development, and building open-source developer tools in Python.
+Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and I run **[Tauqeer Mustafa Inc.](https://tauqeermustafa.tech)**, a digital agency delivering web development, cybersecurity, cloud engineering, and AI solutions as one integrated team.
 
-I like to build small, focused CLI utilities that solve real problems — things I needed while learning and working on security projects. I've published **50+ open-source tools** on GitHub and I'm actively learning penetration testing, cloud security, and DevSecOps.
+I treat security as an engineering discipline, not an afterthought. Threat modeling happens during discovery, not after launch. On the side, I build and publish open-source CLI tools for developers and security practitioners.
 
 ```yaml
+Role:         Full-Stack Engineer & Security Consultant
+Company:      Tauqeer Mustafa Inc. (TMI)
+Services:     Web Development, Cybersecurity, AI Solutions, Cloud Engineering
 Education:    BS Cybersecurity — Air University, Islamabad
-Focus Areas:  Penetration Testing, Secure Development, DevOps
-Primary Lang: Python
-Repos:        51 public repositories
-Status:       Student, actively building and learning
-Location:     Islamabad, Pakistan
+Open Source:  50+ CLI tools published on GitHub
+Location:     Islamabad, PK / Harrow, UK
+Status:       Available for select projects
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════ -->
-<!--              WHAT I'M LEARNING             -->
+<!--              WHAT I DO                     -->
 <!-- ═══════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://img.icons8.com/fluency/28/graduation-cap.png" width="22" />
-  What I'm Working On
+  <img src="https://img.icons8.com/fluency/28/briefcase.png" width="22" />
+  What I Do
 </h2>
 
 <table>
@@ -51,28 +53,29 @@ Location:     Islamabad, Pakistan
 <td width="50%" valign="top">
 
 <h4>
-  <img src="https://img.icons8.com/fluency/20/target.png" width="16" />
-  Currently Learning
+  <img src="https://img.icons8.com/fluency/20/web.png" width="16" />
+  Build
 </h4>
 
-- Penetration testing methodologies (OWASP, network recon)
-- Cloud security (AWS, Azure fundamentals)
-- Docker and Kubernetes security
-- Python automation for security workflows
-- DevSecOps pipeline integration
+- Secure web platforms, portals, and dashboards (Next.js, React, FastAPI)
+- API design and backend architecture
+- AI automation and LLM-backed workflows
+- Cloud infrastructure on AWS, Azure, GCP
+- Open-source developer and security tools
 
 </td>
 <td width="50%" valign="top">
 
 <h4>
-  <img src="https://img.icons8.com/fluency/20/rocket.png" width="16" />
-  Currently Building
+  <img src="https://img.icons8.com/fluency/20/shield.png" width="16" />
+  Secure
 </h4>
 
-- CLI tools for developers and security practitioners
-- Automation scripts for everyday dev tasks
-- Security testing utilities
-- An incident response playbook for SMEs
+- Security posture reviews and audits
+- Threat modeling and vulnerability assessment
+- Penetration testing (web, network, cloud)
+- Access control and identity governance
+- Incident response planning
 
 </td>
 </tr>
@@ -95,16 +98,25 @@ Location:     Islamabad, Pakistan
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,go,javascript,bash&theme=dark" />
 </p>
 
 <h4>
   <img src="https://img.icons8.com/fluency/20/cloud-development.png" width="16" />
-  Tools and Platforms
+  Frameworks and Platforms
 </h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,graphql&theme=dark" />
+</p>
+
+<h4>
+  <img src="https://img.icons8.com/fluency/20/cloud-development.png" width="16" />
+  Infrastructure and DevOps
+</h4>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions&theme=dark" />
 </p>
 
 <h4>
@@ -350,15 +362,17 @@ A collection of small, focused command-line utilities I've built for developers 
 </h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:hello@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-hello@tauqeermustafa.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 <div align="center">
 
 ```
-Open to internships, collaborations, and learning opportunities.
+Open for select projects, collaborations, and security consulting.
 If any of my tools are useful to you, feel free to open issues or PRs.
 ```
 
@@ -370,6 +384,6 @@ If any of my tools are useful to you, feel free to open issues or PRs.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D1117&customColorList=0,2,3,5,6&section=footer&fontSize=0" width="100%" />
 
-<sub>Cybersecurity student building tools and learning in public — Islamabad, Pakistan</sub>
+<sub>Full-Stack Engineer and Security Consultant — Islamabad, PK / Harrow, UK</sub>
 
 </div>
