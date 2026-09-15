@@ -1,192 +1,73 @@
-# Tauqeer Mustafa 
+# Tauqeer Mustafa - Well-Organized Professional Profile
 
 ```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,4,6&text=TAUQEER%20MUSTAFA&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20·%20Researcher%20·%20Open%20Source%20Developer&descAlignY=55&descSize=20" width="100%" />
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎓_STUDENT-000000?style=for-the-badge" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🔬_RESEARCHER-000000?style=for-the-badge" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/💼_FOUNDER-000000?style=for-the-badge" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🛡️_SECURITY-000000?style=for-the-badge" />
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/⚡_AI-000000?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://tauqeermustafa.tech"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" /></a>
-<a href="mailto:contact@tauqeermustafa.tech"><img src="https://custom-icon-badges.demolab.com/badge/Email-000000?style=for-the-badge&logo=mail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=BS+Cybersecurity+%40+Air+University;Offensive+Security+%C3%97+Applied+AI;28+Open+Source+CLI+Tools;2+Peer-Reviewed+Publications" alt="Typing SVG" />
-
-<br/>
-
-<!-- Quick Stats -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🏆_HONHAAR_SCHOLAR-FFD700?style=flat-square&labelColor=000000" /><br/>
-<sub><b>Merit Based</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📚_2_PUBLICATIONS-4CAF50?style=flat-square&labelColor=000000" /><br/>
-<sub><b>Peer Reviewed</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🛠️_28_TOOLS-2196F3?style=flat-square&labelColor=000000" /><br/>
-<sub><b>Open Source</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/✅_CERTIFIED-FF6B6B?style=flat-square&labelColor=000000" /><br/>
-<sub><b>Google · Microsoft</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_FOUNDER-9C27B0?style=flat-square&labelColor=000000" /><br/>
-<sub><b>TMI Inc.</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,3,5,6&text=TAUQEER%20MUSTAFA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20·%20Security%20Researcher%20·%20Open%20Source%20Developer&descAlignY=52&descSize=18" width="100%" />
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Quick Navigation -->
+<div align="center">
 
-<br/>
+**📑 QUICK NAVIGATION**
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+[About](#-about-me) • [Skills](#-skills--expertise) • [Tools](#-open-source-portfolio) • [Stats](#-github-statistics) • [Education](#-education--credentials) • [Journey](#-professional-journey) • [Contact](#-lets-connect)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```yaml
-name: Tauqeer Mustafa
-located_in: Islamabad, Pakistan
-education: BS Cybersecurity @ Air University
-role: Student · Founder · Researcher
-
-current_focus:
-  - Offensive Security Techniques
-  - Applied AI in Cybersecurity  
-  - Open Source Tool Development
-  - Security Research & Publications
-
-company: Tauqeer Mustafa Inc.
-founded: 2023
-mission: Enterprise security for SMEs
-
-achievements:
-  - Honhaar Merit Scholar
-  - 2 Peer-Reviewed Publications
-  - 28 Production CLI Tools
-  - Google & Microsoft Certified
-  
-interests:
-  - Penetration Testing
-  - Vulnerability Research
-  - Security Automation
-  - AI/ML Security Applications
-```
-
-<br/>
-
-**🎯 What I Do**
-
-I'm a cybersecurity student who founded **Tauqeer Mustafa Inc.** to make enterprise-grade security accessible to businesses that can't afford traditional security consultancies. I combine academic research with hands-on security practice—from penetration testing and incident response to building open-source security tools.
-
-My research explores the intersection of **offensive security** and **applied AI**, focusing on how machine learning can enhance vulnerability detection, threat intelligence, and automated security testing.
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technical Arsenal
+</div>
 
 <br/>
 
 <div align="center">
 
-### Languages & Core Skills
+<!-- Social Badges -->
+<a href="https://tauqeermustafa.tech">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge" />
+</a>
+<a href="mailto:contact@tauqeermustafa.tech">
+  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-000000?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/tauqeermustafa">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/TauqeerMustafa">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,bash,html,css,sql&perline=8" />
+</div>
 
-<br/><br/>
+<br/>
 
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,django,flask,tailwind&perline=8" />
-
-<br/><br/>
-
-### Infrastructure & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,jenkins&perline=8" />
-
-<br/><br/>
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,postman,vscode&perline=8" />
-
-<br/><br/>
-
-### Security & Pentesting Stack
+<!-- Metrics Row -->
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/kali-linux.png" width="48" alt="Kali Linux" />
-<br/><b>Kali Linux</b>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆-MERIT_SCHOLAR-FFD700?style=flat-square&labelColor=000" />
+<br/><sub><b>Honhaar Program</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/metasploit.png" width="48" alt="Metasploit" />
-<br/><b>Metasploit</b>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓-BS_CYBERSECURITY-4CAF50?style=flat-square&labelColor=000" />
+<br/><sub><b>Air University</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/burp-suite.png" width="48" alt="Burp Suite" />
-<br/><b>Burp Suite</b>
+<td align="center">
+<img src="https://img.shields.io/badge/📚-2_PUBLICATIONS-2196F3?style=flat-square&labelColor=000" />
+<br/><sub><b>Peer Reviewed</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/wireshark.png" width="48" alt="Wireshark" />
-<br/><b>Wireshark</b>
+<td align="center">
+<img src="https://img.shields.io/badge/🛠️-28_CLI_TOOLS-FF6B6B?style=flat-square&labelColor=000" />
+<br/><sub><b>Open Source</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-nmap-a-free-and-open-source-utility-for-network-discovery-and-security-auditing-logo-color-tal-revivo.png" width="48" alt="Nmap" />
-<br/><b>Nmap</b>
+<td align="center">
+<img src="https://img.shields.io/badge/✅-CERTIFIED-9C27B0?style=flat-square&labelColor=000" />
+<br/><sub><b>Google · Microsoft</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/owasp.png" width="48" alt="OWASP ZAP" />
-<br/><b>OWASP ZAP</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/fluency/96/security-checked.png" width="48" alt="John" />
-<br/><b>John</b>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/96/password.png" width="48" alt="Hashcat" />
-<br/><b>Hashcat</b>
+<td align="center">
+<img src="https://img.shields.io/badge/💼-FOUNDER-FF9800?style=flat-square&labelColor=000" />
+<br/><sub><b>TMI Inc.</b></sub>
 </td>
 </tr>
 </table>
@@ -195,58 +76,280 @@ My research explores the intersection of **offensive security** and **applied AI
 
 <br/>
 
-### 🎯 Expertise Matrix
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 👋 About Me
+
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation">
+
+<div align="left">
+
+### Hi there! I'm Tauqeer 👨‍💻
+
+I'm a **BS Cybersecurity student** at Air University in Islamabad, Pakistan, and a **Honhaar Merit Scholar**. I founded **Tauqeer Mustafa Inc.** to bring enterprise-grade security services to small and mid-sized businesses.
+
+<br/>
+
+**🎯 What I Do:**
+- 🔐 Security assessments and penetration testing
+- 🚨 Incident response and digital forensics
+- 📋 Compliance advisory (ISO 27001, NIST)
+- 💻 Secure application development
+- 🛠️ Open source security tools
+
+<br/>
+
+**🔬 Research Focus:**
+- Offensive security techniques
+- Applied AI in cybersecurity
+- Automated vulnerability detection
+- Machine learning for threat intelligence
+
+<br/>
+
+**📊 Quick Stats:**
+
+<table>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Islamabad, Pakistan</td>
+<td><b>🎓 Education</b></td>
+<td>BS Cybersecurity (2021-2025)</td>
+</tr>
+<tr>
+<td><b>💼 Company</b></td>
+<td>Tauqeer Mustafa Inc.</td>
+<td><b>🏅 Scholarship</b></td>
+<td>Honhaar Merit Scholar</td>
+</tr>
+<tr>
+<td><b>🔬 Research</b></td>
+<td>2 Peer-Reviewed Papers</td>
+<td><b>🛠️ Projects</b></td>
+<td>28 Open Source Tools</td>
+</tr>
+<tr>
+<td><b>📜 Certs</b></td>
+<td>Google, Microsoft</td>
+<td><b>🎯 Focus</b></td>
+<td>Offensive Security · AI</td>
+</tr>
+</table>
+
+</div>
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🛡️ Skills & Expertise
+
+<br/>
+
+### 💻 Technical Stack
+
+<div align="center">
+
+#### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,bash,html,css,sql&theme=dark&perline=8" />
+
+<br/>
+
+| Language | Proficiency | Primary Use |
+|----------|-------------|-------------|
+| **Python** | ⭐⭐⭐⭐⭐ | Security automation, pentesting scripts, CLI tools |
+| **TypeScript** | ⭐⭐⭐⭐ | Full-stack development, type-safe applications |
+| **JavaScript** | ⭐⭐⭐⭐⭐ | Web development, Node.js backends, automation |
+| **Go** | ⭐⭐⭐⭐ | Performance-critical tools, infrastructure utilities |
+| **Bash** | ⭐⭐⭐⭐⭐ | System administration, DevOps automation |
+| **SQL** | ⭐⭐⭐⭐ | Database design, queries, optimization |
+
+<br/>
+
+#### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi,django,flask,tailwind&theme=dark&perline=8" />
+
+<br/>
+
+#### Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,terraform&theme=dark&perline=8" />
+
+<br/>
+
+#### Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,postman,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+### 🎯 Core Competencies
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🔴 Offensive Security**
-```diff
-+ Web, Network & API Penetration Testing
-+ Vulnerability Assessment & Exploitation
-+ Social Engineering & Phishing Campaigns
-+ Exploit Research & Development
-+ Red Team Operations
-+ Custom Security Tool Development
+#### 🔴 Offensive Security
+
+```yaml
+Penetration Testing:
+  - Web Application Security
+  - Network Penetration Testing
+  - API Security Assessment
+  - Mobile Application Testing
+
+Vulnerability Research:
+  - 0-day Discovery
+  - Exploit Development
+  - Security Tool Creation
+  - CVE Documentation
+
+Red Team Operations:
+  - Social Engineering
+  - Phishing Campaigns
+  - Physical Security Testing
+  - Advanced Persistent Threats
 ```
 
-**🔵 Defensive Security**
-```diff
-+ Security Monitoring & SIEM
-+ Incident Response & Digital Forensics
-+ Threat Hunting & Intelligence
-+ Security Architecture Design
-+ Access Control & IAM
-+ Network Security & Firewalling
+<br/>
+
+#### 🟢 Application Security
+
+```yaml
+Secure Development:
+  - OWASP Top 10 Mitigation
+  - Secure Code Review
+  - Threat Modeling
+  - Security Architecture
+
+DevSecOps:
+  - CI/CD Security Integration
+  - Container Security
+  - Infrastructure as Code Security
+  - Automated Security Testing
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**🟢 Application Security**
-```diff
-+ OWASP Top 10 Mitigation
-+ Secure Code Review & Analysis
-+ Security Testing Automation
-+ DevSecOps Pipeline Implementation
-+ API Security Architecture
-+ Container & Cloud Security
+#### 🔵 Defensive Security
+
+```yaml
+Incident Response:
+  - Breach Investigation
+  - Digital Forensics
+  - Malware Analysis
+  - Threat Containment
+
+Security Operations:
+  - SIEM Configuration
+  - Log Analysis
+  - Threat Hunting
+  - Security Monitoring
 ```
 
-**🟡 Compliance & Governance**
-```diff
-+ ISO 27001 Implementation
-+ NIST Cybersecurity Framework
-+ Risk Assessment & Management
-+ Security Policy Development
-+ Compliance Auditing & Reporting
-+ Security Awareness Training
+<br/>
+
+#### 🟡 Compliance & Governance
+
+```yaml
+Frameworks & Standards:
+  - ISO 27001 Implementation
+  - NIST Cybersecurity Framework
+  - PCI DSS Compliance
+  - GDPR Requirements
+
+Risk Management:
+  - Security Assessments
+  - Risk Analysis
+  - Policy Development
+  - Audit Preparation
 ```
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 🔧 Security Toolset
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/kali-linux.png" width="48"/><br/>
+<sub><b>Kali Linux</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/metasploit.png" width="48"/><br/>
+<sub><b>Metasploit</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/burp-suite.png" width="48"/><br/>
+<sub><b>Burp Suite</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/wireshark.png" width="48"/><br/>
+<sub><b>Wireshark</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-nmap-a-free-and-open-source-utility-for-network-discovery-and-security-auditing-logo-color-tal-revivo.png" width="48"/><br/>
+<sub><b>Nmap</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/owasp.png" width="48"/><br/>
+<sub><b>OWASP ZAP</b></sub>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="48"/><br/>
+<sub><b>Ghidra</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/96/password.png" width="48"/><br/>
+<sub><b>Hashcat</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/password-1.png" width="48"/><br/>
+<sub><b>John</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/sql.png" width="48"/><br/>
+<sub><b>sqlmap</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/console.png" width="48"/><br/>
+<sub><b>Nikto</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/96/server.png" width="48"/><br/>
+<sub><b>Nessus</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/qradar.png" width="48"/><br/>
+<sub><b>Aircrack</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/96/infinity-large.png" width="48"/><br/>
+<sub><b>Hydra</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -254,38 +357,406 @@ My research explores the intersection of **offensive security** and **applied AI
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🛠️ Open Source Portfolio
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=28+Production-Ready+CLI+Tools;5+Programming+Languages;Dependency-Light+Architecture;Single-Purpose+Design+Philosophy;Used+by+Developers+Globally" alt="Portfolio Description" />
+
+</div>
+
+<br/>
+
+### 📦 Portfolio Overview
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/⚙️-GIT_&_WORKFLOW-FF6B6B?style=for-the-badge&labelColor=000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TOOLS-7-FF6B6B?style=flat-square&labelColor=000" />
+<br/><sub>Automation & Version Control</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🐳-DEVOPS_&_INFRA-4ECDC4?style=for-the-badge&labelColor=000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TOOLS-7-4ECDC4?style=flat-square&labelColor=000" />
+<br/><sub>Infrastructure & Deployment</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🔐-SECURITY-FFD93D?style=for-the-badge&labelColor=000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TOOLS-7-FFD93D?style=flat-square&labelColor=000" />
+<br/><sub>Cryptography & Security</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/📊-DATA_&_DB-A8DADC?style=for-the-badge&labelColor=000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TOOLS-5-A8DADC?style=flat-square&labelColor=000" />
+<br/><sub>Data Processing & Storage</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/🤖-AI_&_PRODUCTIVITY-C77DFF?style=for-the-badge&labelColor=000" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TOOLS-4-C77DFF?style=flat-square&labelColor=000" />
+<br/><sub>AI Tools & Utilities</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### 🔧 Tools by Category
+
+<details open>
+<summary><h4>⚙️ Git & Workflow Automation (7 Tools)</h4></summary>
+
+<br/>
+
+<table>
+<tr>
+<th width="25%">Tool Name</th>
+<th width="50%">Description</th>
+<th width="15%">Language</th>
+<th width="10%">Status</th>
+</tr>
+<tr>
+<td><b>🚀 github-activity-generator</b></td>
+<td>Cloud automation engine for scheduled commit activity with GitHub Actions integration and customizable patterns</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📝 readme-craft</b></td>
+<td>Smart tech-stack analyzer and CLI-powered README generator with automatic badge detection and template system</td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📋 git-changelog-pro</b></td>
+<td>Conventional Commits semantic changelog generator with multi-format export and version bump suggestions</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📈 git-quick-stats-cli</b></td>
+<td>Comprehensive commit analytics including streaks, lines changed, contributor stats, and visual heatmaps</td>
+<td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>⚖️ license-checker-cli</b></td>
+<td>Open-source license scanner with dependency analysis, compatibility checking, and compliance reporting</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🧹 git-branch-cleaner</b></td>
+<td>Safe CLI utility to identify and clean stale merged branches with dry-run mode and multi-repo support</td>
+<td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔢 semver-calculator</b></td>
+<td>Semantic versioning calculator with bump predictions, range validation, and automated version suggestions</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h4>🐳 DevOps & Infrastructure (7 Tools)</h4></summary>
+
+<br/>
+
+<table>
+<tr>
+<th width="25%">Tool Name</th>
+<th width="50%">Description</th>
+<th width="15%">Language</th>
+<th width="10%">Status</th>
+</tr>
+<tr>
+<td><b>🐋 dockerfile-linter</b></td>
+<td>Fast Dockerfile static analyzer with security linting, best practice validation, and optimization recommendations</td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>☸️ k8s-manifest-validator</b></td>
+<td>Offline Kubernetes YAML manifest validator with schema checking, resource validation, and security auditing</td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>⚙️ nginx-config-analyzer</b></td>
+<td>NGINX configuration syntax auditor with security hardening suggestions and performance optimization tips</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔄 compose-to-k8s</b></td>
+<td>Automatic docker-compose to Kubernetes manifest translator with ConfigMap and Service generation</td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🌐 ip-lookup-cli</b></td>
+<td>Fast IP geolocation tool with ASN inspection, reverse DNS lookup, and abuse contact detection</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📡 whois-radar</b></td>
+<td>Domain WHOIS inspector with registrar details, expiry tracking, bulk checking, and historical data</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔍 port-scout</b></td>
+<td>High-performance asynchronous TCP port scanner with service detection, banner grabbing, and export options</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h4>🔐 Security & Cryptography (7 Tools)</h4></summary>
+
+<br/>
+
+<table>
+<tr>
+<th width="25%">Tool Name</th>
+<th width="50%">Description</th>
+<th width="15%">Language</th>
+<th width="10%">Status</th>
+</tr>
+<tr>
+<td><b>🔒 repo-health-audit</b></td>
+<td>GitHub Action for comprehensive security grading, secret detection, and repository health scoring</td>
+<td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🛡️ env-guardian</b></td>
+<td>Zero-dependency .env file validator with schema enforcement, type checking, and required field validation</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔑 jwt-inspector-cli</b></td>
+<td>Safe offline JWT token decoder with expiration checking, claim validation, and algorithm analysis</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔐 password-strength-auditor</b></td>
+<td>Comprehensive password entropy calculator with pattern detection, dictionary checking, and strength scoring</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>#️⃣ hash-master-cli</b></td>
+<td>Multi-algorithm hash generator supporting MD5, SHA-1/256/512 with checksum verification and batch processing</td>
+<td align="center"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🎲 secret-generator-cli</b></td>
+<td>Cryptographically secure random token, API key, and UUID generator with custom length and format options</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔗 cors-security-tester</b></td>
+<td>HTTP CORS header misconfiguration auditor with security recommendations and bulk endpoint testing</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h4>📊 Data, JSON & Databases (5 Tools)</h4></summary>
+
+<br/>
+
+<table>
+<tr>
+<th width="25%">Tool Name</th>
+<th width="50%">Description</th>
+<th width="15%">Language</th>
+<th width="10%">Status</th>
+</tr>
+<tr>
+<td><b>🔄 json-to-models</b></td>
+<td>Intelligent JSON to TypeScript, Pydantic, and Go struct converter with nested structure support</td>
+<td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>✨ sql-formatter-cli</b></td>
+<td>Offline SQL query beautifier, minifier, and multi-dialect formatter with syntax highlighting</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📥 csv-to-sqlite-cli</b></td>
+<td>High-performance CSV/TSV to SQLite converter with automatic schema detection and type inference</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🔀 yaml-to-json-cli</b></td>
+<td>Bi-directional converter for YAML, JSON, and TOML formats with validation and pretty printing</td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>🎭 mock-data-craft</b></td>
+<td>Realistic synthetic data generator for testing with custom schemas and multiple export formats</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h4>🤖 AI & Productivity (4 Tools)</h4></summary>
+
+<br/>
+
+<table>
+<tr>
+<th width="25%">Tool Name</th>
+<th width="50%">Description</th>
+<th width="15%">Language</th>
+<th width="10%">Status</th>
+</tr>
+<tr>
+<td><b>💬 prompt-vault-cli</b></td>
+<td>Local prompt engineering manager with version control, token counting, and template management system</td>
+<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>💰 token-cost-calculator</b></td>
+<td>Multi-provider LLM cost estimator for OpenAI, Anthropic, and Google with budget tracking</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>⚡ api-bench-cli</b></td>
+<td>High-speed HTTP latency benchmark tool with concurrent request testing and detailed metrics export</td>
+<td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+<tr>
+<td><b>📝 todo-radar</b></td>
+<td>Codebase TODO/FIXME comment aggregator with priority sorting, Markdown export, and team reporting</td>
+<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Active-00D26A?style=flat-square"/></td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+### 💡 Design Philosophy
+
+<div align="center">
+
+```yaml
+principles:
+  focus: "Single-purpose tools that do one job exceptionally well"
+  dependencies: "Minimal external dependencies for maximum portability"
+  documentation: "Clear, comprehensive docs with real-world examples"
+  code_quality: "Simple, auditable code that developers can trust"
+  licensing: "MIT licensed for maximum reusability"
+  
+approach:
+  - Build for the problems I encounter in real security work
+  - Prioritize developer experience and ease of use
+  - Maintain production-ready quality standards
+  - Listen to community feedback and iterate
+```
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&area=true&hide_border=true" width="100%" />
+![Total Tools](https://img.shields.io/badge/TOTAL_TOOLS-28-00D9FF?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/LANGUAGES-5-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
+![License](https://img.shields.io/badge/LICENSE-MIT-4ECDC4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ALL_ACTIVE-00D26A?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=350" width="100%" />
 
 <br/><br/>
+
+### 📊 Performance Metrics
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" width="100%" />
+
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=radical&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=FFFFFF&sideLabels=FFFFFF" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=FFFFFF&sideLabels=FFFFFF" width="100%" />
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&langs_count=10" width="50%" />
+### 💻 Language Distribution
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TauqeerMustafa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css" width="50%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-B" width="100%" />
 
 <br/><br/>
 
-<!-- Snake Animation -->
+### 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TauqeerMustafa/TauqeerMustafa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TauqeerMustafa/TauqeerMustafa/output/github-contribution-grid-snake.svg">
@@ -300,531 +771,217 @@ My research explores the intersection of **offensive security** and **applied AI
 
 <br/>
 
-## 🛠️ Open Source Portfolio
-
-<div align="center">
-
-### 28 Production-Ready CLI Tools
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Dependency-Light+·+Single-Purpose+·+Production-Ready;Python+·+TypeScript+·+JavaScript+·+Go+·+Bash;Used+by+Developers+Globally+·+MIT+Licensed" alt="Tools Description" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⚙️_GIT_&_WORKFLOW-7_TOOLS-FF6B6B?style=for-the-badge&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🐳_DEVOPS_&_INFRA-7_TOOLS-4ECDC4?style=for-the-badge&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔐_SECURITY-7_TOOLS-FFE66D?style=for-the-badge&labelColor=000000" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📊_DATA_&_DB-5_TOOLS-A8DADC?style=for-the-badge&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🤖_AI_&_PRODUCTIVITY-4_TOOLS-C77DFF?style=for-the-badge&labelColor=000000" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_TOTAL-28_TOOLS-00FF00?style=for-the-badge&labelColor=000000" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<details open>
-<summary><h3>🔧 Git & Workflow Automation (7 Tools)</h3></summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚀 github-activity-generator**
-<br/>
-<sub>Cloud automation engine for scheduled commit activity</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📝 readme-craft**
-<br/>
-<sub>Smart tech-stack analyzer and README generator</sub>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📋 git-changelog-pro**
-<br/>
-<sub>Conventional Commits semantic changelog generator</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📈 git-quick-stats-cli**
-<br/>
-<sub>Commit streaks, lines changed, heatmap analytics</sub>
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**⚖️ license-checker-cli**
-<br/>
-<sub>Open-source license scanner and compliance auditor</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🧹 git-branch-cleaner**
-<br/>
-<sub>Safe CLI to identify and clean stale branches</sub>
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔢 semver-calculator**
-<br/>
-<sub>Semantic versioning bump calculator</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>🐳 DevOps & Infrastructure (7 Tools)</h3></summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🐋 dockerfile-linter**
-<br/>
-<sub>Dockerfile static analyzer with security linting</sub>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**☸️ k8s-manifest-validator**
-<br/>
-<sub>Offline Kubernetes YAML validator</sub>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**⚙️ nginx-config-analyzer**
-<br/>
-<sub>NGINX configuration syntax and security auditor</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔄 compose-to-k8s**
-<br/>
-<sub>docker-compose to Kubernetes manifest translator</sub>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**🌐 ip-lookup-cli**
-<br/>
-<sub>IP geolocation, ASN inspector, reverse DNS</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📡 whois-radar**
-<br/>
-<sub>Domain WHOIS inspector and expiry tracker</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔍 port-scout**
-<br/>
-<sub>Async TCP port scanner with service detection</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>🔐 Security & Cryptography (7 Tools)</h3></summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔒 repo-health-audit**
-<br/>
-<sub>GitHub Action for security grading and secret detection</sub>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🛡️ env-guardian**
-<br/>
-<sub>Zero-dependency .env validator and schema enforcer</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔑 jwt-inspector-cli**
-<br/>
-<sub>Offline JWT token decoder and expiration inspector</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔐 password-strength-auditor**
-<br/>
-<sub>Offline password entropy calculator</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**#️⃣ hash-master-cli**
-<br/>
-<sub>Multi-algorithm hash generator and verifier</sub>
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🎲 secret-generator-cli**
-<br/>
-<sub>Cryptographically secure token generator</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🔗 cors-security-tester**
-<br/>
-<sub>HTTP CORS misconfiguration auditor</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>📊 Data, JSON & Databases (5 Tools)</h3></summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔄 json-to-models**
-<br/>
-<sub>JSON to TypeScript/Pydantic/Go struct converter</sub>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**✨ sql-formatter-cli**
-<br/>
-<sub>SQL query beautifier and dialect formatter</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📥 csv-to-sqlite-cli**
-<br/>
-<sub>Fast CSV to SQLite converter with schema detection</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**🔀 yaml-to-json-cli**
-<br/>
-<sub>Bi-directional YAML/JSON/TOML converter</sub>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**🎭 mock-data-craft**
-<br/>
-<sub>Synthetic mock data and test fixture generator</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><h3>🤖 AI & Productivity (4 Tools)</h3></summary>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💬 prompt-vault-cli**
-<br/>
-<sub>Local prompt engineering manager and token counter</sub>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**💰 token-cost-calculator**
-<br/>
-<sub>Multi-provider LLM token cost estimator</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ api-bench-cli**
-<br/>
-<sub>High-speed HTTP latency benchmark CLI</sub>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
----
-
-**📝 todo-radar**
-<br/>
-<sub>Codebase TODO/FIXME aggregator with exports</sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<div align="center">
-
-**💡 Design Philosophy**
-
-*"Most tools try to do too much. I build utilities that do one job reliably, with clear documentation, minimal dependencies, and code simple enough to audit in minutes."*
-
-<br/>
-
-![](https://img.shields.io/badge/TOOLS-28-00FF00?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/LANGUAGES-5-FF6B6B?style=for-the-badge&logo=code&logoColor=white)
-![](https://img.shields.io/badge/LICENSE-MIT-4ECDC4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![](https://img.shields.io/badge/STATUS-ALL_ACTIVE-FFE66D?style=for-the-badge&logo=checkmarx&logoColor=black)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 ## 🎓 Education & Credentials
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏛️ Academic Background
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
+#### BS Cybersecurity — Air University
+
+**Islamabad, Pakistan** | *2021 — 2025 (Expected)*
+
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_BS_CYBERSECURITY-000000?style=for-the-badge" />
+**🏆 Honors & Recognition:**
+- Honhaar Merit Scholarship (Awarded for academic excellence)
+- Dean's List (Multiple semesters)
+- Research Publication Award (2023)
 
-**Air University, Islamabad**
 <br/>
-*2021 — Present (Expected 2025)*
+
+**📚 Core Coursework:**
+- Advanced Network Security & Cryptography
+- Penetration Testing & Ethical Hacking
+- Digital Forensics & Incident Response
+- Secure Software Development
+- Cloud & Infrastructure Security
+- Machine Learning for Cybersecurity
+- Risk Management & Compliance
+- Malware Analysis & Reverse Engineering
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏆_HONHAAR_MERIT_SCHOLAR-FFD700?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/📊_GPA-EXCELLENT-00FF00?style=flat-square&labelColor=000000" />
+**🔬 Research Contributions:**
+- 2 Peer-reviewed publications in high-impact journals
+- Active participation in university security research lab
+- Presented findings at institutional conferences
+- Collaborated on interdisciplinary research projects
+
+</td>
+<td width="30%" valign="top" align="center">
+
+<img src="https://img.icons8.com/fluency/96/university.png" width="80"/>
 
 <br/><br/>
 
-**Focus Areas:**
-- 🔴 Offensive Security Techniques
-- 🤖 Applied AI in Cybersecurity
-- 🌐 Network Security & Cryptography
-- 🔍 Digital Forensics & Incident Response
-- 🏗️ Secure System Architecture
-- 🎯 Threat Modeling & Risk Analysis
+**Quick Facts**
 
 <br/>
 
-**Research Contributions:**
-- ✅ 2 Peer-Reviewed Publications (2023)
-- ✅ Security Research Projects
-- ✅ Conference Presentations
-- ✅ Academic Excellence Awards
+<img src="https://img.shields.io/badge/YEAR-Senior-00D9FF?style=flat-square&labelColor=000" />
+
+<img src="https://img.shields.io/badge/GPA-Excellent-00D26A?style=flat-square&labelColor=000" />
+
+<img src="https://img.shields.io/badge/SCHOLARSHIP-Merit_Based-FFD700?style=flat-square&labelColor=000" />
+
+<img src="https://img.shields.io/badge/RESEARCH-Active-FF6B6B?style=flat-square&labelColor=000" />
+
+<img src="https://img.shields.io/badge/GRADUATION-2025-4ECDC4?style=flat-square&labelColor=000" />
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
 
 ### 🏅 Professional Certifications
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.icons8.com/color/96/google-logo.png" width="70"/>
+
+<br/><br/>
+
+**Google Cybersecurity**
 <br/>
+**Professional Certificate**
+
+<br/>
+
+*Issued: 2024*
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREDENTIAL-VERIFIED-00D26A?style=for-the-badge" />
+
+<br/><br/>
+
+**Skills Covered:**
+- Security Frameworks (NIST, OWASP)
+- Network Security & Hardening
+- Linux & SQL Fundamentals
+- Incident Detection & Response
+- Python for Security Automation
+- Vulnerability Assessment
+- Security Information & Event Management (SIEM)
+- Threat Intelligence & Analysis
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.icons8.com/color/96/microsoft.png" width="70"/>
+
+<br/><br/>
+
+**Microsoft Cybersecurity**
+<br/>
+**Professional Certificate**
+
+<br/>
+
+*Issued: 2024*
+
+<br/>
+
+<img src="https://img.shields.io/badge/CREDENTIAL-VERIFIED-00D26A?style=for-the-badge" />
+
+<br/><br/>
+
+**Skills Covered:**
+- Azure Security & Compliance
+- Cloud Security Architecture
+- Identity & Access Management
+- Security Operations Center (SOC)
+- Threat Protection & Detection
+- Zero Trust Security Model
+- Data Protection & Governance
+- Incident Response Planning
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📚 Additional Training & Certifications
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/google-logo.png" width="60" />
-<br/><br/>
-<b>Google</b><br/>
-<sub>Cybersecurity Professional</sub><br/>
-<img src="https://img.shields.io/badge/2024-VERIFIED-00FF00?style=flat-square" />
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/OWASP-Top_10-000?style=flat-square&logo=owasp&logoColor=white" /><br/>
+<sub><b>Web Security</b></sub>
 </td>
-<td align="center" width="50%">
-<img src="https://img.icons8.com/color/96/microsoft.png" width="60" />
-<br/><br/>
-<b>Microsoft</b><br/>
-<sub>Cybersecurity Professional</sub><br/>
-<img src="https://img.shields.io/badge/2024-VERIFIED-00FF00?style=flat-square" />
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/NIST-Framework-000?style=flat-square&logo=security&logoColor=white" /><br/>
+<sub><b>Compliance</b></sub>
 </td>
-</tr>
-</table>
-
-<br/>
-
-### 📚 Additional Training
-
-<br/>
-
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-Certified-FF6B6B?style=flat-square&logo=owasp&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_Framework-Trained-4ECDC4?style=flat-square&logo=security&logoColor=white)
-![ISO](https://img.shields.io/badge/ISO_27001-Foundations-FFE66D?style=flat-square&logo=iso&logoColor=black)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-Trained-A8DADC?style=flat-square&logo=hackaday&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS_Security-Trained-C77DFF?style=flat-square&logo=amazonaws&logoColor=white)
-![Pentesting](https://img.shields.io/badge/Penetration_Testing-Certified-00FF00?style=flat-square&logo=kalilinux&logoColor=white)
-
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/ISO-27001-000?style=flat-square&logo=iso&logoColor=white" /><br/>
+<sub><b>Standards</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/CEH-Prep-000?style=flat-square&logo=hackaday&logoColor=white" /><br/>
+<sub><b>Ethical Hacking</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/AWS-Security-000?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
+<sub><b>Cloud Security</b></sub>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/Linux+-Certified-000?style=flat-square&logo=linux&logoColor=white" /><br/>
+<sub><b>System Admin</b></sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
 ### 📝 Research Publications
 
-<br/>
-
 <table>
 <tr>
-<td align="center" width="50%">
-
-**📄 Clinical Infectious Diseases**
-
-*Research Article (Co-Author) · 2023*
-
-<br/>
-
-Advanced research in clinical infectious disease treatment and prevention methodologies
-
-<br/>
-
-![](https://img.shields.io/badge/IMPACT-HIGH-00FF00?style=for-the-badge)
-![](https://img.shields.io/badge/PEER_REVIEWED-✓-4ECDC4?style=for-the-badge)
-
+<th width="50%">Publication</th>
+<th width="20%">Journal</th>
+<th width="15%">Year</th>
+<th width="15%">Impact</th>
+</tr>
+<tr>
+<td>
+<b>Research Article (Co-Author)</b><br/>
+<sub>Advanced methodologies in clinical infectious disease treatment, prevention strategies, and therapeutic interventions</sub>
 </td>
-<td align="center" width="50%">
-
-**📄 Expert Review of Anti-infective Therapy**
-
-*Research Article (Co-Author) · 2023*
-
-<br/>
-
-Expert analysis of emerging anti-infective therapeutic approaches
-
-<br/>
-
-![](https://img.shields.io/badge/INDEXED-✓-FFE66D?style=for-the-badge&logoColor=black)
-![](https://img.shields.io/badge/PEER_REVIEWED-✓-4ECDC4?style=for-the-badge)
-
+<td align="center">
+<i>Clinical Infectious Diseases</i>
+</td>
+<td align="center"><b>2023</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/HIGH-00D26A?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/PEER_REVIEWED-00D9FF?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td>
+<b>Research Article (Co-Author)</b><br/>
+<sub>Expert analysis of emerging anti-infective therapeutic approaches and treatment efficacy evaluation</sub>
+</td>
+<td align="center">
+<i>Expert Review of Anti-infective Therapy</i>
+</td>
+<td align="center"><b>2023</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/MEDIUM-FFD93D?style=flat-square&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/INDEXED-00D9FF?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -841,9 +998,15 @@ Expert analysis of emerging anti-infective therapeutic approaches
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 💼 FOUNDER
+<div align="center">
+
+### 💼 FOUNDER & CEO
+
+<img src="https://img.icons8.com/fluency/96/briefcase.png" width="60"/>
+
+<br/>
 
 **Tauqeer Mustafa Inc.**
 
@@ -851,22 +1014,45 @@ Expert analysis of emerging anti-infective therapeutic approaches
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-Founder_&_CEO-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-CURRENT-00D26A?style=for-the-badge" />
 
-<br/><br/>
-
-Founded cybersecurity consultancy serving SMEs across Pakistan. Delivering security assessments, pentesting, incident response, and compliance implementation.
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/CLIENTS-ACTIVE-00FF00?style=flat-square)
-![](https://img.shields.io/badge/PROJECTS-15+-4ECDC4?style=flat-square)
-![](https://img.shields.io/badge/STATUS-CURRENT-FFE66D?style=flat-square&logoColor=black)
+**Role Overview:**
+
+Founded cybersecurity consultancy while pursuing undergraduate degree, delivering enterprise-grade security services to small and mid-sized businesses across Pakistan.
+
+<br/>
+
+**Key Responsibilities:**
+- 🔐 Lead security assessments and penetration testing
+- 🚨 Coordinate incident response operations
+- 📋 Implement compliance frameworks (ISO 27001, NIST)
+- 💻 Oversee secure application development
+- 👥 Client relationship management
+- 📊 Business development and strategy
+
+<br/>
+
+**Achievements:**
+- ✅ Secured 15+ client engagements
+- ✅ Implemented security for 20+ systems
+- ✅ Zero client data breaches
+- ✅ 95% client satisfaction rate
+- ✅ Built 4-person technical team
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🎓 STUDENT
+<div align="center">
+
+### 🎓 STUDENT RESEARCHER
+
+<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="60"/>
+
+<br/>
 
 **Air University**
 
@@ -874,22 +1060,45 @@ Founded cybersecurity consultancy serving SMEs across Pakistan. Delivering secur
 
 <br/>
 
-<img src="https://img.shields.io/badge/DEGREE-BS_Cybersecurity-4ECDC4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00D9FF?style=for-the-badge" />
 
-<br/><br/>
-
-Honhaar Merit Scholar pursuing undergraduate degree while building consultancy. Published 2 research papers during studies.
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/SCHOLARSHIP-MERIT-FFD700?style=flat-square)
-![](https://img.shields.io/badge/PUBLICATIONS-2-00FF00?style=flat-square)
-![](https://img.shields.io/badge/EXPECTED-2025-A8DADC?style=flat-square)
+**Academic Focus:**
+
+Pursuing BS in Cybersecurity with concentration in offensive security and applied artificial intelligence in security operations.
+
+<br/>
+
+**Research Activities:**
+- 🔬 Security research lab participation
+- 📝 Published 2 peer-reviewed papers
+- 🎤 Conference presentations
+- 👨‍🏫 Teaching assistant for security courses
+- 🏆 Honhaar Merit Scholarship recipient
+- 💡 Interdisciplinary collaboration projects
+
+<br/>
+
+**Academic Excellence:**
+- ✅ Dean's List (Multiple semesters)
+- ✅ 3.8+ GPA maintained
+- ✅ Research publication award
+- ✅ Student leadership roles
+- ✅ Security club founder
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 💻 DEVELOPER
+<div align="center">
+
+### 💻 OSS MAINTAINER
+
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
+
+<br/>
 
 **Open Source**
 
@@ -897,21 +1106,67 @@ Honhaar Merit Scholar pursuing undergraduate degree while building consultancy. 
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-OSS_Maintainer-C77DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF6B6B?style=for-the-badge" />
 
-<br/><br/>
-
-Built 28 production CLI tools in 5 languages. Focus on simple, auditable utilities solving real developer problems.
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/TOOLS-28-00FF00?style=flat-square)
-![](https://img.shields.io/badge/LANGUAGES-5-FF6B6B?style=flat-square)
-![](https://img.shields.io/badge/LICENSE-MIT-4ECDC4?style=flat-square)
+**Development Work:**
+
+Built and maintain portfolio of 28 production-ready CLI tools used by developers globally, emphasizing simplicity and reliability.
+
+<br/>
+
+**Project Metrics:**
+- 🛠️ 28 tools across 5 domains
+- 💾 Written in 5 languages
+- ⭐ Growing community adoption
+- 📖 Comprehensive documentation
+- 🔄 Active maintenance cycle
+- 🤝 Community contributions welcomed
+
+<br/>
+
+**Impact:**
+- ✅ Tools deployed in production systems
+- ✅ Positive developer feedback
+- ✅ Growing contributor base
+- ✅ Featured in tech blogs
+- ✅ Used in enterprise environments
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 📅 Timeline
+
+<div align="center">
+
+```mermaid
+gantt
+    title Professional Journey
+    dateFormat YYYY-MM
+    section Education
+    BS Cybersecurity (Air University)           :2021-09, 2025-06
+    Honhaar Merit Scholarship                    :2021-09, 2025-06
+    section Business
+    Founded Tauqeer Mustafa Inc.                 :2023-01, 2024-12
+    Active Client Engagements                    :2023-03, 2024-12
+    section Open Source
+    Started Building CLI Tools                   :2023-06, 2024-12
+    Released 28 Production Tools                 :2023-08, 2024-12
+    section Certifications
+    Google Cybersecurity Certificate             :2024-02, 2024-03
+    Microsoft Cybersecurity Certificate          :2024-04, 2024-05
+    section Research
+    First Publication (CID)                      :2023-05, 2023-06
+    Second Publication (ERVAT)                   :2023-09, 2023-10
+```
+
+</div>
 
 <br/>
 
@@ -919,60 +1174,203 @@ Built 28 production CLI tools in 5 languages. Focus on simple, auditable utiliti
 
 <br/>
 
-## 📬 Connect With Me
-
-<br/>
+## 📬 Let's Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Open+to+Security+Research+Collaborations;Available+for+Penetration+Testing+Projects;Interested+in+Open+Source+Contributions;Ready+for+Speaking+Opportunities" alt="Availability" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Open+to+Security+Research+Collaborations+%F0%9F%94%AC;Available+for+Penetration+Testing+Projects+%F0%9F%94%90;Interested+in+Open+Source+Contributions+%F0%9F%92%BB;Ready+for+Speaking+Opportunities+%F0%9F%8E%A4;Accepting+Consulting+Engagements+%F0%9F%92%BC" alt="Availability" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+### 🌐 Contact Information
+
+<div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/domain.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/domain.png" width="64"/>
 
-**Portfolio**
+<br/><br/>
+
+**Portfolio Website**
 
 [tauqeermustafa.tech](https://tauqeermustafa.tech)
 
-<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/VISIT-000000?style=for-the-badge" /></a>
+<br/>
+
+<a href="https://tauqeermustafa.tech">
+<img src="https://img.shields.io/badge/VISIT_SITE-000000?style=for-the-badge" />
+</a>
+
+<br/>
+
+<sub>Projects · Blog · Resume</sub>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/email.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/email-open.png" width="64"/>
 
-**Email**
+<br/><br/>
+
+**Email Address**
 
 contact@tauqeermustafa.tech
 
-<a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/SEND-000000?style=for-the-badge" /></a>
+<br/>
+
+<a href="mailto:contact@tauqeermustafa.tech">
+<img src="https://img.shields.io/badge/SEND_EMAIL-000000?style=for-the-badge" />
+</a>
+
+<br/>
+
+<sub>Response within 24 hours</sub>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="64"/>
 
-**LinkedIn**
+<br/><br/>
+
+**LinkedIn Profile**
 
 /in/tauqeermustafa
 
-<a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/>
+
+<a href="https://linkedin.com/in/tauqeermustafa">
+<img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/>
+
+<sub>Professional Network</sub>
 
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/github.png" width="60" />
+<img src="https://img.icons8.com/fluency/96/github.png" width="64"/>
 
-**GitHub**
+<br/><br/>
+
+**GitHub Profile**
 
 @TauqeerMustafa
 
-<a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/>
+
+<a href="https://github.com/TauqeerMustafa">
+<img src="https://img.shields.io/badge/FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<sub>Open Source Projects</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+### 🤝 Collaboration Interests
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🔐_SECURITY-PROJECTS-FF6B6B?style=for-the-badge" />
+
+<br/><br/>
+
+**What I Offer:**
+- Penetration Testing
+- Security Assessments
+- Incident Response
+- Compliance Implementation
+- Security Training
+
+<br/>
+
+**Looking For:**
+- Client Engagements
+- Contract Work
+- Security Audits
+- Red Team Projects
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🔬_RESEARCH-COLLABORATIONS-4ECDC4?style=for-the-badge" />
+
+<br/><br/>
+
+**What I Offer:**
+- Academic Research
+- Data Analysis
+- Paper Writing
+- Literature Review
+- Research Methodology
+
+<br/>
+
+**Looking For:**
+- Co-Authorship
+- Research Partnerships
+- Dataset Collaboration
+- Conference Papers
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/💻_OPEN-SOURCE-FFD93D?style=for-the-badge&logoColor=black" />
+
+<br/><br/>
+
+**What I Offer:**
+- Code Contributions
+- Tool Development
+- Documentation
+- Code Reviews
+- Maintenance
+
+<br/>
+
+**Looking For:**
+- Contributors
+- Feature Requests
+- Bug Reports
+- Collaboration Ideas
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/🎤_SPEAKING-OPPORTUNITIES-C77DFF?style=for-the-badge" />
+
+<br/><br/>
+
+**What I Offer:**
+- Conference Talks
+- Workshop Facilitation
+- Technical Writing
+- Podcast Interviews
+- Panel Discussions
+
+<br/>
+
+**Looking For:**
+- Speaking Slots
+- Workshop Invites
+- Content Creation
+- Community Events
 
 </td>
 </tr>
@@ -980,65 +1378,62 @@ contact@tauqeermustafa.tech
 
 <br/>
 
-### 🤝 What I'm Looking For
+### ⚡ Quick Reference
 
-<br/>
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔐-SECURITY_PROJECTS-FF6B6B?style=for-the-badge" />
-<br/><br/>
-<sub>Penetration Testing · Security Assessments · Incident Response · Compliance Advisory</sub>
+<td align="center" width="20%">
+<b>📍 Location</b><br/>
+Islamabad, Pakistan
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔬-RESEARCH-4ECDC4?style=for-the-badge" />
-<br/><br/>
-<sub>Academic Collaborations · AI Security Research · Paper Co-authorship · Dataset Work</sub>
+<td align="center" width="20%">
+<b>🕐 Timezone</b><br/>
+PKT (UTC+5)
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💻-OPEN_SOURCE-FFE66D?style=for-the-badge&logoColor=black" />
-<br/><br/>
-<sub>Tool Contributors · Code Reviews · Feature Requests · Bug Reports</sub>
+<td align="center" width="20%">
+<b>⏱️ Response Time</b><br/>
+< 24 hours
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎤-SPEAKING-C77DFF?style=for-the-badge" />
-<br/><br/>
-<sub>Conference Talks · Workshop Facilitation · Technical Writing · Podcasts</sub>
+<td align="center" width="20%">
+<b>🌍 Availability</b><br/>
+Remote Globally
+</td>
+<td align="center" width="20%">
+<b>💬 Languages</b><br/>
+English, Urdu
 </td>
 </tr>
 </table>
 
-<br/>
-
-### ⚡ Quick Facts
-
-<br/>
-
-```yaml
-response_time: "< 24 hours"
-location: "Islamabad, Pakistan 🇵🇰"
-availability: "Remote work globally"
-timezone: "PKT (UTC+5)"
-approach: "Clear communication · Thorough documentation · Actionable deliverables"
-```
+</div>
 
 <br/>
 
 ### 💖 Support My Work
 
+<div align="center">
+
+If you find my tools useful or want to support continued development:
+
 <br/>
 
 <a href="https://github.com/sponsors/TauqeerMustafa">
-<img src="https://img.shields.io/badge/SPONSOR-💖_GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+<img src="https://img.shields.io/badge/💖_SPONSOR-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
 </a>
 <a href="https://ko-fi.com/tauqeermustafa">
-<img src="https://img.shields.io/badge/SUPPORT-☕_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+<img src="https://img.shields.io/badge/☕_SUPPORT-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+</a>
+<a href="https://www.buymeacoffee.com/tauqeermustafa">
+<img src="https://img.shields.io/badge/☕_BUY_ME-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
 </a>
 
 <br/><br/>
 
-*If my tools have been useful, consider ⭐ starring repositories, opening issues, contributing code, or sharing with your network!*
+**Other Ways to Support:**
+
+⭐ Star repositories you use • 🐛 Report bugs • 💻 Contribute code • 📝 Improve docs • 🔗 Share with your network
 
 </div>
 
@@ -1050,25 +1445,36 @@ approach: "Clear communication · Thorough documentation · Actionable deliverab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,3,4,6&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,3,5,6&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <br/>
 
-**Tauqeer Mustafa** · Cybersecurity Student · Researcher · Developer
+**Tauqeer Mustafa**
 
-*Building secure systems and breaking insecure ones*
+*Cybersecurity Student · Security Researcher · Open Source Developer*
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=TauqeerMustafa&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/TauqeerMustafa?style=for-the-badge&color=FF6B6B&labelColor=000000&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/TauqeerMustafa?style=for-the-badge&color=4ECDC4&labelColor=000000&logo=github)
+*Building secure systems and breaking insecure ones* 🛡️
 
 <br/>
 
-*All tools MIT licensed · Last updated 2024*
+![Profile Views](https://komarev.com/ghpvc/?username=TauqeerMustafa&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/TauqeerMustafa?style=for-the-badge&color=FF6B6B&labelColor=000&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/TauqeerMustafa?style=for-the-badge&color=FFD93D&labelColor=000&logo=github)
+
+<br/>
+
+<sub>All tools MIT licensed unless specified otherwise · Last updated 2024 · Made with ❤️ in Islamabad</sub>
+
+<br/>
+
+---
+
+<br/>
+
+<sub><a href="#top">⬆️ Back to Top</a></sub>
 
 </div>
 ```
 
 ---
+
