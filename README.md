@@ -1,9 +1,6 @@
 # 
 <div align="center">
 
-<!-- ANIMATED TERMINAL BOOT HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&text=TAUQEER%20MUSTAFA&desc=ENTERPRISE%20TOOLING%20ARCHITECT%20%7C%20CYBERSECURITY%20%7C%20TMI&fontAlign=50&fontAlignY=35&descAlignY=55&height=250&stroke=1c69d4&strokeWidth=2&animation=twinkling" width="100%" alt="Hero Banner" />
-
 <!-- SYSTEM STATUS & VISITOR NODE -->
 [![Profile Views](https://komarev.com/ghpvc/?username=TauqeerMustafa&color=1c69d4&style=for-the-badge&label=UNIQUE_VISITORS)](#)
 [![System Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-0fa336?style=for-the-badge&logo=opsgenie&logoColor=white)](#)
@@ -11,24 +8,145 @@
 
 <br>
 
+<!-- ANIMATED HERO BOOT SEQUENCE -->
+<a href="https://tauqeermustafa.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=TAUQEER+MUSTAFA;ENTERPRISE+TOOLING+ARCHITECT;CYBERSECURITY+CONSULTANT;FOUNDER+%40+TAUQEER+MUSTAFA+INC." alt="Animated Hero" />
+</a>
+
+<br>
+
+> **Bridging technical architecture with financial accountability.** Specializing in enterprise web development, AI automation, cloud infrastructure, and security-first practices.
+
+<br>
+
 <!-- PRECISION TRICOLOR DIVIDER -->
-<img src="https://placehold.co/300x4/0066b1/0066b1.png" width="33.3%" height="4" style="display:inline-block;" alt="M Blue Light"/><img src="https://placehold.co/300x4/1c69d4/1c69d4.png" width="33.3%" height="4" style="display:inline-block;" alt="M Blue Dark"/><img src="https://placehold.co/300x4/e22718/e22718.png" width="33.3%" height="4" style="display:inline-block;" alt="M Red"/>
+<img src="https://placehold.co/300x4/0066b1/0066b1.png" width="33.3%" height="4" style="display:inline-block; vertical-align:top;" alt="M Blue Light"/><img src="https://placehold.co/300x4/1c69d4/1c69d4.png" width="33.3%" height="4" style="display:inline-block; vertical-align:top;" alt="M Blue Dark"/><img src="https://placehold.co/300x4/e22718/e22718.png" width="33.3%" height="4" style="display:inline-block; vertical-align:top;" alt="M Red"/>
 
 </div>
 
 <br>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=500&color=E22718&vCenter=true&width=600&height=40&lines=LOADING_MODULE...;[OK]+OPERATOR_IDENTITY_VERIFIED" alt="Operator Identity" />
+### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=500&color=E22718&vCenter=true&width=600&height=40&lines=LOADING_MODULE...;[OK]+ENTERPRISE_OPERATIONS" alt="Enterprise Operations" />
 
-```bash
-tauqeer@tmi-mainframe:~$ whoami
-Tauqeer Mustafa
+| <img src="https://cdn.simpleicons.org/databricks/white" width="16"/> BUSINESS UNIT | ENGINEERING FOCUS | SECURE ACCESS |
+| :--- | :--- | :--- |
+| **TMI ENGINEERING** | Enterprise software, AI automation, and cloud architecture. | [![TMI](https://img.shields.io/badge/TAUQEERMUSTAFA.TECH-1a1a1a?style=flat-square&logo=googlechrome&logoColor=white)](https://tauqeermustafa.tech) |
+| **RISK & COMPLIANCE** | Cybersecurity consulting, financial compliance, and risk advisory. | [![TMI](https://img.shields.io/badge/TAUQEER.ME-1a1a1a?style=flat-square&logo=shield&logoColor=white)](https://tauqeer.me) |
+| **TMI PORTALS** | Internal Android app for client pipeline and project management. | [![TMI](https://img.shields.io/badge/RESTRICTED_ACCESS-2b2b2b?style=flat-square&logo=android&logoColor=white)](#) |
 
-tauqeer@tmi-mainframe:~$ cat identity.json
-{
-  "role": "Founder & Lead Architect @ Tauqeer Mustafa Inc.",
-  "location": "Rawalpindi, Pakistan",
-  "education": "Air University",
-  "directive": "Bridging technical architecture with financial accountability. Specializing in enterprise web development, AI automation, and security-first practices."
-}
-tauqeer@tmi-mainframe:~$ ./init_operations.sh
+<br>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=500&color=1C69D4&vCenter=true&width=600&height=40&lines=LOADING_MODULE...;[OK]+THE_OPEN_SOURCE_ECOSYSTEM" alt="Open Source" />
+
+A production-grade, zero-dependency suite of developer tools, CLI utilities, and cloud automations built to simplify workflows, enhance security, and supercharge developer productivity.
+
+<br>
+
+#### [![Git](https://img.shields.io/badge/GIT_%26_WORKFLOW_AUTOMATION-0066b1?style=for-the-badge&logo=git&logoColor=white)](#)
+
+| SYSTEM UTILITY | FUNCTIONAL SPECIFICATION | EXPLORE |
+| :--- | :--- | :--- |
+| **[GITHUB-ACTIVITY-GENERATOR](https://github.com/TauqeerMustafa/github-activity-generator)** | Production-grade 24 commits/day cloud automation engine. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/github-activity-generator) |
+| **[README-CRAFT](https://github.com/TauqeerMustafa/readme-craft)** | Smart tech-stack analyzer & CLI generator to craft READMEs. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/readme-craft) |
+| **[GIT-CHANGELOG-PRO](https://github.com/TauqeerMustafa/git-changelog-pro)** | Conventional Commits semantic changelog generator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/git-changelog-pro) |
+| **[GIT-QUICK-STATS-CLI](https://github.com/TauqeerMustafa/git-quick-stats-cli)** | Git commit streaks, lines changed, and heatmap analytics. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/git-quick-stats-cli) |
+| **[LICENSE-CHECKER-CLI](https://github.com/TauqeerMustafa/license-checker-cli)** | Open-source license scanner & compliance auditor. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/license-checker-cli) |
+| **[GIT-BRANCH-CLEANER](https://github.com/TauqeerMustafa/git-branch-cleaner)** | Safe CLI to identify and clean up stale, merged branches. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/git-branch-cleaner) |
+| **[SEMVER-CALCULATOR](https://github.com/TauqeerMustafa/semver-calculator)** | Semantic versioning bump calculator and range validator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/semver-calculator) |
+
+<br>
+
+#### [![DevOps](https://img.shields.io/badge/DEVOPS_%26_INFRASTRUCTURE-1c69d4?style=for-the-badge&logo=docker&logoColor=white)](#)
+
+| SYSTEM UTILITY | FUNCTIONAL SPECIFICATION | EXPLORE |
+| :--- | :--- | :--- |
+| **[DOCKERFILE-LINTER](https://github.com/TauqeerMustafa/dockerfile-linter)** | Fast Dockerfile static analyzer and security linter. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/dockerfile-linter) |
+| **[K8S-MANIFEST-VALIDATOR](https://github.com/TauqeerMustafa/k8s-manifest-validator)** | Offline Kubernetes YAML manifest syntax validator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/k8s-manifest-validator) |
+| **[NGINX-CONFIG-ANALYZER](https://github.com/TauqeerMustafa/nginx-config-analyzer)** | NGINX configuration syntax auditor and security checker. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/nginx-config-analyzer) |
+| **[COMPOSE-TO-K8S](https://github.com/TauqeerMustafa/compose-to-k8s)** | Translate `docker-compose.yml` into Kubernetes manifests. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/compose-to-k8s) |
+| **[IP-LOOKUP-CLI](https://github.com/TauqeerMustafa/ip-lookup-cli)** | Fast IP geolocation, ASN inspector, and reverse DNS. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/ip-lookup-cli) |
+| **[WHOIS-RADAR](https://github.com/TauqeerMustafa/whois-radar)** | Domain WHOIS inspector and registrar expiry tracker. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/whois-radar) |
+| **[PORT-SCOUT](https://github.com/TauqeerMustafa/port-scout)** | Fast asynchronous TCP port scanner and diagnostic tool. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/port-scout) |
+
+<br>
+
+#### [![Security](https://img.shields.io/badge/SECURITY_%26_CRYPTOGRAPHY-e22718?style=for-the-badge&logo=auth0&logoColor=white)](#)
+
+| SYSTEM UTILITY | FUNCTIONAL SPECIFICATION | EXPLORE |
+| :--- | :--- | :--- |
+| **[REPO-HEALTH-AUDIT](https://github.com/TauqeerMustafa/repo-health-audit)** | GitHub Action for repository health grading and secret detection. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/repo-health-audit) |
+| **[ENV-GUARDIAN](https://github.com/TauqeerMustafa/env-guardian)** | Zero-dependency `.env` validator and schema enforcer. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/env-guardian) |
+| **[JWT-INSPECTOR-CLI](https://github.com/TauqeerMustafa/jwt-inspector-cli)** | Safe, offline JWT token decoder and expiration inspector. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/jwt-inspector-cli) |
+| **[PASSWORD-STRENGTH-AUDITOR](https://github.com/TauqeerMustafa/password-strength-auditor)** | Offline password entropy calculator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/password-strength-auditor) |
+| **[HASH-MASTER-CLI](https://github.com/TauqeerMustafa/hash-master-cli)** | Multi-algorithm hash generator and checksum verification. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/hash-master-cli) |
+| **[SECRET-GENERATOR-CLI](https://github.com/TauqeerMustafa/secret-generator-cli)** | Secure random token, API key, and UUIDv4/v7 generator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/secret-generator-cli) |
+| **[CORS-SECURITY-TESTER](https://github.com/TauqeerMustafa/cors-security-tester)** | HTTP CORS header misconfiguration auditor. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/cors-security-tester) |
+
+<br>
+
+#### [![Data](https://img.shields.io/badge/DATA%2C_JSON_%26_DATABASES-1a1a1a?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+
+| SYSTEM UTILITY | FUNCTIONAL SPECIFICATION | EXPLORE |
+| :--- | :--- | :--- |
+| **[JSON-TO-MODELS](https://github.com/TauqeerMustafa/json-to-models)** | Converts JSON payloads into TS, Pydantic, and Go structs. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/json-to-models) |
+| **[SQL-FORMATTER-CLI](https://github.com/TauqeerMustafa/sql-formatter-cli)** | Offline SQL query beautifier, minifier, and dialect formatter. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/sql-formatter-cli) |
+| **[CSV-TO-SQLITE-CLI](https://github.com/TauqeerMustafa/csv-to-sqlite-cli)** | Fast CSV/TSV to SQLite database converter. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/csv-to-sqlite-cli) |
+| **[YAML-TO-JSON-CLI](https://github.com/TauqeerMustafa/yaml-to-json-cli)** | Bi-directional YAML <-> JSON <-> TOML conversion utility. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/yaml-to-json-cli) |
+| **[MOCK-DATA-CRAFT](https://github.com/TauqeerMustafa/mock-data-craft)** | Synthetic mock JSON data & test fixture generator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/mock-data-craft) |
+
+<br>
+
+#### [![AI](https://img.shields.io/badge/AI_%26_PRODUCTIVITY_TOOLS-0066b1?style=for-the-badge&logo=openai&logoColor=white)](#)
+
+| SYSTEM UTILITY | FUNCTIONAL SPECIFICATION | EXPLORE |
+| :--- | :--- | :--- |
+| **[PROMPT-VAULT-CLI](https://github.com/TauqeerMustafa/prompt-vault-cli)** | Local CLI prompt engineering manager and token counter. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/prompt-vault-cli) |
+| **[TOKEN-COST-CALCULATOR](https://github.com/TauqeerMustafa/token-cost-calculator)** | Multi-provider LLM token and API cost estimator. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/token-cost-calculator) |
+| **[API-BENCH-CLI](https://github.com/TauqeerMustafa/api-bench-cli)** | High-speed HTTP latency benchmark CLI. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/api-bench-cli) |
+| **[TODO-RADAR](https://github.com/TauqeerMustafa/todo-radar)** | Codebase comment aggregator with Markdown exports. | [![Explore](https://img.shields.io/badge/EXPLORE_%E2%86%92-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/TauqeerMustafa/todo-radar) |
+
+<br><br>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=500&color=FFFFFF&vCenter=true&width=600&height=40&lines=LOADING_MODULE...;[OK]+TECHNICAL_SPECIFICATIONS" alt="Tech Stack" />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,sql,bash,html,css&theme=dark" alt="Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,githubactions,aws&theme=dark" alt="DevOps" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,figma,kali,ubuntu&theme=dark" alt="Data & Tools" />
+</div>
+
+<br><br>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=24&pause=500&color=0066B1&vCenter=true&width=600&height=40&lines=LOADING_MODULE...;[OK]+TELEMETRY_%26_METRICS" alt="Analytics" />
+
+<div align="center">
+  
+  <!-- ANIMATED ACTIVITY GRAPH -->
+  <a href="https://github.com/TauqeerMustafa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&bg_color=000000&color=1c69d4&line=e22718&point=ffffff&area=true&hide_border=true&border_radius=0" alt="Activity Graph" width="100%" />
+  </a>
+  
+  <br>
+  
+  <!-- GITHUB PERFORMANCE METRICS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TauqeerMustafa&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=0066b1&border_radius=0" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TauqeerMustafa&theme=dark&hide_border=true&border_radius=0&background=000000&ring=1c69d4&fire=e22718&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" height="175"/>
+
+</div>
+
+<br>
+<hr>
+<br>
+
+<div align="center">
+  <!-- INTERACTIVE CONNECT DOCK -->
+  [![Website](https://img.shields.io/badge/TAUQEERMUSTAFA.TECH-1a1a1a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tauqeermustafa.tech)
+  [![Email](https://img.shields.io/badge/SECURE_COMMUNICATION-1a1a1a?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contact@tauqeermustafa.tech)
+  [![LinkedIn](https://img.shields.io/badge/PROFESSIONAL_NETWORK-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauqeermustafa)
+  
+  <br>
+  <p><b>OPEN TO ENTERPRISE CONSULTING AND TECHNICAL PARTNERSHIPS</b></p>
+  <sub>ALL TOOLS AND REPOSITORIES ARE MAINTAINED UNDER <a href="https://tauqeermustafa.tech">TAUQEER MUSTAFA INC.</a></sub>
+</div>
