@@ -131,6 +131,18 @@ A production-grade, zero-dependency suite of developer tools, CLI utilities, and
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+  <a href="https://github.com/TauqeerMustafa?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## 📊 GitHub Activity & Analytics
 
 <div align="center">
