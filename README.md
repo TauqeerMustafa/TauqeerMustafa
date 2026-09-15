@@ -123,15 +123,6 @@ A production-grade, zero-dependency suite of developer tools, CLI utilities, and
 
 <div align="center">
   
-  <!-- ANIMATED CONTRIBUTION SNAKE -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TauqeerMustafa/TauqeerMustafa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TauqeerMustafa/TauqeerMustafa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TauqeerMustafa/TauqeerMustafa/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br><br>
-
   <!-- ANIMATED ACTIVITY GRAPH -->
   <a href="https://github.com/TauqeerMustafa">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TauqeerMustafa&bg_color=000000&color=1c69d4&line=e22718&point=ffffff&area=true&hide_border=true&border_radius=0" alt="Activity Graph" width="100%" />
