@@ -90,10 +90,9 @@ Status:      Open to select projects
 ## <img src="https://img.shields.io/badge/-%20-F778BA?style=flat-square&logo=github&logoColor=white" height="26"/> Notable Projects
 
 | Project | Description |
-|:--|:--|
-| [**sme-incident-response-playbook**](https://github.com/TauqeerMustafa/sme-incident-response-playbook) | Consultant-grade Incident Response & Containment Playbook for SMEs, aligned with NIST CSF 2.0, NIST SP 800-61 Rev.2, CIS Controls v8, and MITRE ATT&CK |
+| [**TMK**](https://github.com/TauqeerMustafa/TMK) | Core Engineering & DevOps Platform — microservices, architecture, benchmarks & automation |
 | [**repo-health-audit**](https://github.com/TauqeerMustafa/repo-health-audit) | GitHub repository security grading and secret detection |
-| [**github-activity-generator**](https://github.com/TauqeerMustafa/github-activity-generator) | Automated GitHub commit activity engine |
+| [**sme-incident-response-playbook**](https://github.com/TauqeerMustafa/sme-incident-response-playbook) | Consultant-grade Incident Response & Containment Playbook for SMEs, aligned with NIST CSF 2.0, NIST SP 800-61 Rev.2, CIS Controls v8, and MITRE ATT&CK |
 | [**developer-utilities-hub**](https://github.com/TauqeerMustafa/developer-utilities-hub) | Collected developer utility scripts and tools |
 
 <br/>
@@ -135,9 +134,7 @@ Small, focused command-line utilities for developers and security practitioners.
 <summary><strong><img src="https://img.shields.io/badge/-%20-DB6D28?style=flat-square&logo=git&logoColor=white" height="20"/> Git & Workflow</strong></summary>
 <br/>
 
-| Tool | What it does |
-|:--|:--|
-| [github-activity-generator](https://github.com/TauqeerMustafa/github-activity-generator) | Automated GitHub commit activity engine |
+| [TMK](https://github.com/TauqeerMustafa/TMK) | Core Engineering & DevOps Platform |
 | [readme-craft](https://github.com/TauqeerMustafa/readme-craft) | Tech-stack analyzer and README generator |
 | [git-changelog-pro](https://github.com/TauqeerMustafa/git-changelog-pro) | Conventional Commits changelog generator |
 | [git-quick-stats-cli](https://github.com/TauqeerMustafa/git-quick-stats-cli) | Commit streaks and LOC analytics |
