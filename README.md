@@ -2,12 +2,12 @@
 
 # TAUQEER MUSTAFA
 
-**Cybersecurity Consultant · Founder · Researcher**
+**Cybersecurity Student · Researcher · Open Source Developer**
 
 <br/>
 
-<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -17,10 +17,10 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/BS_CYBERSECURITY-000000?style=flat)
+![](https://img.shields.io/badge/BS_CYBERSECURITY_STUDENT-000000?style=flat)
 ![](https://img.shields.io/badge/AIR_UNIVERSITY-000000?style=flat)
 ![](https://img.shields.io/badge/HONHAAR_SCHOLAR-000000?style=flat)
-![](https://img.shields.io/badge/TMI_FOUNDER-000000?style=flat)
+![](https://img.shields.io/badge/FOUNDER-000000?style=flat)
 ![](https://img.shields.io/badge/2_PUBLICATIONS-000000?style=flat)
 ![](https://img.shields.io/badge/28_CLI_TOOLS-000000?style=flat)
 
@@ -32,25 +32,27 @@
 
 <br/><br/>
 
-## Profile
+## About Me
 
-**Tauqeer Mustafa Inc.** is a cybersecurity consultancy in Islamabad, Pakistan, built to bring enterprise-grade security practices to small and mid-sized businesses—organizations typically priced out of traditional security solutions.
+I'm a BS Cybersecurity student at Air University in Islamabad, Pakistan, and a Honhaar Merit Scholar. I founded **Tauqeer Mustafa Inc.** to make enterprise-grade security accessible to small and mid-sized businesses that are typically priced out of professional security services.
 
-I'm a BS Cybersecurity student at Air University and Honhaar Merit Scholar with certifications from Google and Microsoft. My work sits at the intersection of **offensive security** and **applied AI**, delivering practical security improvements through vulnerability assessments, incident response, compliance frameworks, and secure development.
+My work combines academic research with hands-on security practice. I hold cybersecurity certifications from Google and Microsoft, and I've co-authored two peer-reviewed research articles in clinical infectious disease journals. Outside of consulting work, I build open-source developer and security tools—28 CLI utilities across five domains, all designed to solve single problems exceptionally well.
+
+My research focus sits at the intersection of **offensive security** and **applied artificial intelligence**—exploring how machine learning can enhance vulnerability detection, threat intelligence, and automated security testing.
 
 <br/>
 
 | | |
 |---|---|
-| **Name** | Tauqeer Mustafa |
-| **Title** | Founder & CEO |
-| **Company** | Tauqeer Mustafa Inc. |
+| **Based in** | Islamabad, Pakistan |
 | **Education** | BS Cybersecurity, Air University |
-| **Location** | Islamabad, Pakistan |
-| **Specialization** | Offensive Security · Applied AI |
+| **Status** | Student · Founder · Researcher |
+| **Scholarship** | Honhaar Merit Scholar |
+| **Research** | Offensive Security · Applied AI |
+| **Certifications** | Google · Microsoft |
 | **Publications** | 2 peer-reviewed articles |
 | **Open Source** | 28 production CLI tools |
-| **Status** | ![](https://img.shields.io/badge/AVAILABLE-1EA64A?style=flat) |
+| **Availability** | ![](https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-1EA64A?style=flat) |
 
 <br/><br/><br/>
 
@@ -60,21 +62,35 @@ I'm a BS Cybersecurity student at Air University and Honhaar Merit Scholar with 
 
 <div style="background: #DCEEB1; padding: 48px; border-radius: 24px;">
 
-## Services
+## What I Do
 
 <br/>
 
-### What TMI Delivers
+I work across four primary areas, combining academic learning with practical security implementation:
 
 <br/>
 
-**SECURITY ASSESSMENTS** — Vulnerability scanning, penetration testing, risk analysis, infrastructure hardening, compliance review, remediation roadmaps
+**SECURITY RESEARCH & TESTING**
 
-**INCIDENT RESPONSE** — 24/7 breach investigation, threat containment, forensic analysis, recovery planning, post-incident review
+Penetration testing, vulnerability assessments, security audits. I apply offensive security techniques to identify weaknesses in web applications, networks, and APIs—then provide clear, actionable remediation guidance.
 
-**COMPLIANCE ADVISORY** — ISO 27001 implementation, NIST framework alignment, OWASP standards, policy documentation, audit preparation
+<br/>
 
-**SECURE DEVELOPMENT** — Security-first web applications, code review, DevSecOps pipelines, OWASP-compliant architecture, production deployment
+**INCIDENT RESPONSE & FORENSICS**
+
+Breach investigation, threat containment, digital forensics. I help organizations understand what happened during a security incident, contain the damage, and build preventive measures to stop it from happening again.
+
+<br/>
+
+**COMPLIANCE & FRAMEWORKS**
+
+ISO 27001, NIST Cybersecurity Framework, OWASP standards. I help businesses align their security practices with recognized frameworks—particularly valuable for organizations pursuing certifications or preparing for audits.
+
+<br/>
+
+**SECURE DEVELOPMENT & TOOLING**
+
+I build security-first applications and open-source CLI tools. My development work emphasizes OWASP compliance, minimal dependencies, and clean, maintainable code that solves real problems.
 
 <br/>
 
@@ -86,7 +102,7 @@ I'm a BS Cybersecurity student at Air University and Honhaar Merit Scholar with 
 
 <br/><br/>
 
-## Featured Work
+## My Journey
 
 <br/>
 
@@ -94,48 +110,40 @@ I'm a BS Cybersecurity student at Air University and Honhaar Merit Scholar with 
 <tr>
 <td width="50%" valign="top">
 
-### TAUQEER MUSTAFA INC.
+### FOUNDER — TAUQEER MUSTAFA INC.
 
-**Enterprise Security for SMEs**
-
-Founded 2023 · Islamabad, Pakistan
+**2023 — Present**
 
 <br/>
 
-Boutique consultancy delivering enterprise-grade security assessments, incident response, compliance frameworks, and secure infrastructure—tailored for small and mid-sized business budgets and operational realities.
+While still a student, I founded a cybersecurity consultancy to bring professional security services to Pakistani SMEs. I handle everything from penetration testing and incident response to compliance advisory and secure web development.
+
+What started as a way to apply classroom knowledge has grown into a practice serving multiple active clients. I've delivered security assessments, implemented ISO 27001 frameworks, built incident response capabilities, and created secure production systems for businesses that couldn't previously afford dedicated security expertise.
 
 <br/>
 
 ![](https://img.shields.io/badge/FOUNDED-2023-000000?style=flat)
 ![](https://img.shields.io/badge/CLIENTS-ACTIVE-1EA64A?style=flat)
-![](https://img.shields.io/badge/4_SERVICES-000000?style=flat)
-
-<br/>
-
-<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/VISIT_WEBSITE-000000?style=for-the-badge" /></a>
+![](https://img.shields.io/badge/STUDENT_FOUNDER-000000?style=flat)
 
 </td>
 <td width="50%" valign="top">
 
-### OPEN SOURCE PORTFOLIO
+### OPEN SOURCE DEVELOPER
 
-**28 Production CLI Tools**
-
-5 domains · 5 languages · MIT licensed
+**2023 — Present**
 
 <br/>
 
-Dependency-light command-line utilities built across Git & Workflow (7), DevOps & Infrastructure (7), Security & Cryptography (7), Data & Databases (5), and AI & Productivity (4). Each tool solves one problem exceptionally well.
+I've built and maintain 28 open-source CLI tools distributed across five domains: Git & Workflow, DevOps & Infrastructure, Security & Cryptography, Data & Databases, and AI & Productivity.
+
+Each tool is deliberately scoped to solve one problem well, with minimal dependencies and maximum portability. Written in Python, TypeScript, JavaScript, Go, and Bash, they're used by developers globally and represent my commitment to building practical, production-ready utilities rather than feature-bloated frameworks.
 
 <br/>
 
 ![](https://img.shields.io/badge/28_TOOLS-000000?style=flat)
 ![](https://img.shields.io/badge/5_LANGUAGES-000000?style=flat)
-![](https://img.shields.io/badge/MIT-1EA64A?style=flat)
-
-<br/>
-
-<a href="#open-source"><img src="https://img.shields.io/badge/EXPLORE_TOOLS-000000?style=for-the-badge" /></a>
+![](https://img.shields.io/badge/MIT_LICENSED-1EA64A?style=flat)
 
 </td>
 </tr>
@@ -149,13 +157,13 @@ Dependency-light command-line utilities built across Git & Workflow (7), DevOps 
 
 <div style="background: #C5B0F4; padding: 48px; border-radius: 24px;" id="open-source">
 
-## Open Source Tooling
+## Open Source Portfolio
 
 <br/>
 
 ### 28 Dependency-Light CLI Tools
 
-Each scoped to solve a single problem exceptionally well
+I believe good tools should do one thing exceptionally well. Each of these utilities is deliberately scoped, thoroughly documented, and built for production use.
 
 <br/>
 
@@ -173,7 +181,7 @@ Each scoped to solve a single problem exceptionally well
 
 ### GIT & WORKFLOW AUTOMATION
 
-| Tool | Description | Language |
+| Tool | What It Does | Built With |
 |---|---|---|
 | **github-activity-generator** | Cloud automation engine for scheduled commit activity | Python |
 | **readme-craft** | Smart tech-stack analyzer and README generator | TypeScript |
@@ -187,11 +195,11 @@ Each scoped to solve a single problem exceptionally well
 
 ### DEVOPS & INFRASTRUCTURE
 
-| Tool | Description | Language |
+| Tool | What It Does | Built With |
 |---|---|---|
 | **dockerfile-linter** | Dockerfile static analyzer with security linting | Go |
 | **k8s-manifest-validator** | Offline Kubernetes YAML validator | Go |
-| **nginx-config-analyzer** | NGINX configuration syntax auditor | Python |
+| **nginx-config-analyzer** | NGINX configuration syntax and security auditor | Python |
 | **compose-to-k8s** | docker-compose to Kubernetes manifest translator | Go |
 | **ip-lookup-cli** | IP geolocation, ASN inspector, reverse DNS | Python |
 | **whois-radar** | Domain WHOIS inspector and expiry tracker | Node.js |
@@ -201,7 +209,7 @@ Each scoped to solve a single problem exceptionally well
 
 ### SECURITY & CRYPTOGRAPHY
 
-| Tool | Description | Language |
+| Tool | What It Does | Built With |
 |---|---|---|
 | **repo-health-audit** | GitHub Action for security grading and secret detection | JavaScript |
 | **env-guardian** | Zero-dependency .env validator and schema enforcer | Node.js |
@@ -215,24 +223,30 @@ Each scoped to solve a single problem exceptionally well
 
 ### DATA, JSON & DATABASES
 
-| Tool | Description | Language |
+| Tool | What It Does | Built With |
 |---|---|---|
 | **json-to-models** | JSON to TypeScript/Pydantic/Go struct converter | TypeScript |
 | **sql-formatter-cli** | SQL query beautifier and dialect formatter | Node.js |
-| **csv-to-sqlite-cli** | Fast CSV to SQLite converter | Python |
+| **csv-to-sqlite-cli** | Fast CSV to SQLite converter with schema detection | Python |
 | **yaml-to-json-cli** | Bi-directional YAML/JSON/TOML converter | Go |
-| **mock-data-craft** | Synthetic mock data and fixture generator | Node.js |
+| **mock-data-craft** | Synthetic mock data and test fixture generator | Node.js |
 
 <br/>
 
 ### AI & PRODUCTIVITY
 
-| Tool | Description | Language |
+| Tool | What It Does | Built With |
 |---|---|---|
 | **prompt-vault-cli** | Local prompt engineering manager and token counter | Python |
 | **token-cost-calculator** | Multi-provider LLM token cost estimator | Node.js |
 | **api-bench-cli** | High-speed HTTP latency benchmark CLI | Go |
 | **todo-radar** | Codebase TODO/FIXME aggregator with exports | Node.js |
+
+<br/>
+
+**Why I Built These**
+
+Most tools try to do too much. I wanted utilities that developers could trust to do one job reliably, with clear documentation, minimal dependencies, and code simple enough to audit in minutes. Every tool here solves a problem I've encountered in my own work.
 
 <br/>
 
@@ -246,67 +260,69 @@ Each scoped to solve a single problem exceptionally well
 
 <div style="background: #F4ECD6; padding: 48px; border-radius: 24px;">
 
-## Technical Expertise
+## Technical Skills
 
 <br/>
 
-### Technology Stack
+### Languages & Frameworks
+
+I work primarily in Python, TypeScript, JavaScript, Go, and Bash. I'm comfortable with full-stack development (Node.js, Express, React, Next.js) and backend frameworks (FastAPI, Django, Flask), but my focus is security—building secure systems and finding vulnerabilities in existing ones.
 
 <br/>
 
-**PROGRAMMING LANGUAGES**
+**Core Languages**
 
 Python · TypeScript · JavaScript · Go · SQL · Bash · HTML5 · CSS3
 
 <br/>
 
-**FRAMEWORKS & LIBRARIES**
+**Web Development**
 
 Node.js · Express · FastAPI · Django · Flask · React · Next.js · Tailwind CSS
 
 <br/>
 
-**INFRASTRUCTURE & DEVOPS**
+**Infrastructure**
 
 Docker · Kubernetes · NGINX · Linux · GitHub Actions · AWS · Terraform · Jenkins
 
 <br/>
 
-**DATABASES**
+**Databases**
 
 SQLite · MySQL · PostgreSQL · Redis · MongoDB · Firebase
 
-<br/>
-
-**SECURITY & PENETRATION TESTING**
-
-Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP
-
 <br/><br/>
 
-### Expertise Areas
+### Security Expertise
 
 <br/>
 
 | Offensive Security | Application Security |
 |---|---|
-| Penetration Testing (Web, Network, API) | OWASP Top 10 Mitigation |
-| Vulnerability Assessment & Management | Secure Code Review |
-| Social Engineering & Phishing | Security Testing Automation |
-| Exploit Development & Research | DevSecOps Implementation |
+| Web, Network & API Penetration Testing | OWASP Top 10 Mitigation |
+| Vulnerability Assessment & Exploitation | Secure Code Review & Analysis |
+| Social Engineering & Phishing Campaigns | Security Testing Automation |
+| Exploit Research & Development | DevSecOps Pipeline Implementation |
 | Red Team Operations | API Security Architecture |
-| Security Tool Development | Container & Cloud Security |
+| Custom Security Tool Development | Container & Cloud Security |
 
 <br/>
 
 | Defensive Security | Compliance & Governance |
 |---|---|
 | Security Monitoring & SIEM | ISO 27001 Implementation |
-| Incident Response & Forensics | NIST Cybersecurity Framework |
+| Incident Response & Digital Forensics | NIST Cybersecurity Framework |
 | Threat Hunting & Intelligence | Risk Assessment & Management |
 | Security Architecture Design | Security Policy Development |
-| Access Control & IAM | Compliance Auditing |
-| Network Security | Security Awareness Training |
+| Access Control & Identity Management | Compliance Auditing & Reporting |
+| Network Security & Firewalling | Security Awareness Training |
+
+<br/>
+
+**Security Toolset**
+
+Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP · Ghidra · John the Ripper · Hashcat · sqlmap
 
 <br/>
 
@@ -318,7 +334,7 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP
 
 <br/><br/>
 
-## GitHub Analytics
+## GitHub Activity
 
 <br/>
 
@@ -345,9 +361,9 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP
 
 <br/><br/>
 
-![](https://img.shields.io/badge/28_REPOS-000000?style=for-the-badge)
+![](https://img.shields.io/badge/28_PUBLIC_REPOS-000000?style=for-the-badge)
 ![](https://img.shields.io/badge/5_LANGUAGES-000000?style=for-the-badge)
-![](https://img.shields.io/badge/ACTIVE-1EA64A?style=for-the-badge)
+![](https://img.shields.io/badge/ALL_ACTIVE-1EA64A?style=for-the-badge)
 ![](https://img.shields.io/badge/MIT_LICENSE-000000?style=for-the-badge)
 
 </div>
@@ -360,44 +376,68 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP
 
 <div style="background: #C8E6CD; padding: 48px; border-radius: 24px;">
 
-## Credentials & Recognition
+## Education & Recognition
 
 <br/>
+
+### Academic Background
+
+<br/>
+
+**BS CYBERSECURITY — AIR UNIVERSITY**
+
+Islamabad, Pakistan · 2021 — Present
+
+<br/>
+
+I'm currently pursuing a Bachelor of Science in Cybersecurity with a focus on offensive security and applied AI. I'm a Honhaar Merit Scholar, awarded for academic excellence.
+
+During my undergraduate studies, I've co-authored two peer-reviewed research articles, maintained a strong academic record while building a consultancy, and presented research at institutional conferences.
+
+My coursework covers network security, cryptography, secure system design, digital forensics, incident response, and threat modeling—complemented by self-directed research into machine learning applications in security operations.
+
+<br/>
+
+![](https://img.shields.io/badge/HONHAAR_MERIT_SCHOLAR-000000?style=flat)
+![](https://img.shields.io/badge/EXPECTED_GRADUATION-2025-000000?style=flat)
+![](https://img.shields.io/badge/FOCUS-OFFENSIVE_SECURITY_·_AI-000000?style=flat)
+
+<br/><br/>
 
 ### Professional Certifications
 
 <br/>
 
-| Organization | Credential | Year |
-|---|---|---|
-| **GOOGLE** | Cybersecurity Professional Certificate | 2024 |
-| **MICROSOFT** | Cybersecurity Professional Certificate | 2024 |
-| **AIR UNIVERSITY** | Honhaar Merit Scholarship | Active |
-| **TMI** | Founder & Chief Executive Officer | 2023 |
+| Organization | Certification | Year | Status |
+|---|---|---|---|
+| **Google** | Cybersecurity Professional Certificate | 2024 | ![](https://img.shields.io/badge/VERIFIED-1EA64A?style=flat) |
+| **Microsoft** | Cybersecurity Professional Certificate | 2024 | ![](https://img.shields.io/badge/VERIFIED-1EA64A?style=flat) |
 
 <br/>
 
-### Additional Training
+**Additional Training**
 
-<br/>
-
-![](https://img.shields.io/badge/OWASP_TOP_10-CERTIFIED-000000?style=flat)
-![](https://img.shields.io/badge/NIST_FRAMEWORK-TRAINED-000000?style=flat)
-![](https://img.shields.io/badge/ISO_27001-FOUNDATIONS-000000?style=flat)
-![](https://img.shields.io/badge/ETHICAL_HACKING-TRAINED-000000?style=flat)
-![](https://img.shields.io/badge/CLOUD_SECURITY-AWS-000000?style=flat)
-![](https://img.shields.io/badge/PENETRATION_TESTING-CERTIFIED-000000?style=flat)
+![](https://img.shields.io/badge/OWASP_TOP_10-000000?style=flat)
+![](https://img.shields.io/badge/NIST_FRAMEWORK-000000?style=flat)
+![](https://img.shields.io/badge/ISO_27001_FOUNDATIONS-000000?style=flat)
+![](https://img.shields.io/badge/ETHICAL_HACKING-000000?style=flat)
+![](https://img.shields.io/badge/AWS_CLOUD_SECURITY-000000?style=flat)
+![](https://img.shields.io/badge/PENETRATION_TESTING-000000?style=flat)
 
 <br/><br/>
 
-### Academic Publications
+### Research Publications
 
 <br/>
 
 | Publication | Journal | Year | Impact |
 |---|---|---|---|
-| Research Article (Co-Author) | *Clinical Infectious Diseases* | 2023 | ![](https://img.shields.io/badge/HIGH-1EA64A?style=flat) |
+| Research Article (Co-Author) | *Clinical Infectious Diseases* | 2023 | ![](https://img.shields.io/badge/HIGH_IMPACT-1EA64A?style=flat) |
 | Research Article (Co-Author) | *Expert Review of Anti-infective Therapy* | 2023 | ![](https://img.shields.io/badge/PEER_REVIEWED-000000?style=flat) |
+
+<br/>
+
+I co-authored two peer-reviewed research articles during my undergraduate studies, contributing to data analysis, research methodology, and manuscript preparation. Both publications are indexed in major academic databases.
 
 <br/>
 
@@ -411,57 +451,91 @@ Kali Linux · Metasploit · Burp Suite · Wireshark · Nmap · OWASP ZAP
 
 <div style="background: #EFD4D4; padding: 48px; border-radius: 24px;">
 
-## Professional Timeline
+## Timeline
 
 <br/>
 
-### 2023 — PRESENT
+### 2023 — PRESENT · Founder
 
-**FOUNDER & CEO · TAUQEER MUSTAFA INC.**
-
-Islamabad, Pakistan
+**TAUQEER MUSTAFA INC.**
 
 <br/>
 
-Strategic leadership and business development for cybersecurity consultancy serving SMEs across Pakistan. Delivery of comprehensive security assessments, penetration testing, compliance advisory, and incident response. Development of 28 open-source CLI tools.
+Founded a cybersecurity consultancy while still a student, delivering professional security services to SMEs across Pakistan. I handle security assessments, penetration testing, incident response, compliance implementation, and secure development projects.
 
-**Key Achievements**
-- Established enterprise-grade security practice for small businesses
-- Implemented ISO 27001 and NIST frameworks for multiple clients
-- Built 24/7 incident response capabilities
-- Created security assessment methodology
+Building a practice from scratch has taught me as much as my formal education—client communication, project scoping, business operations, and translating technical findings into actionable business recommendations.
+
+<br/>
+
+![](https://img.shields.io/badge/CURRENT-1EA64A?style=flat)
+![](https://img.shields.io/badge/STUDENT_FOUNDER-000000?style=flat)
+![](https://img.shields.io/badge/ACTIVE_CLIENTS-000000?style=flat)
 
 <br/><br/>
 
-### 2021 — PRESENT
+### 2021 — PRESENT · Student
 
-**BS CYBERSECURITY · AIR UNIVERSITY**
-
-Islamabad, Pakistan
+**AIR UNIVERSITY — BS CYBERSECURITY**
 
 <br/>
 
-Core cybersecurity education with focus on offensive security, applied AI, network security, cryptography, and secure system design. Honhaar Merit Scholar. Co-authored 2 peer-reviewed research publications.
+Pursuing undergraduate degree in cybersecurity with Honhaar Merit Scholarship. Core focus on offensive security, applied AI, network security, cryptography, and secure system design.
+
+Academic work includes two peer-reviewed research publications, participation in security research projects, and maintaining strong performance while simultaneously running a consultancy.
+
+<br/>
+
+![](https://img.shields.io/badge/HONHAAR_SCHOLAR-000000?style=flat)
+![](https://img.shields.io/badge/2_PUBLICATIONS-000000?style=flat)
+![](https://img.shields.io/badge/EXPECTED_2025-000000?style=flat)
 
 <br/><br/>
 
-### 2024
+### 2023 — 2024 · Developer
 
-**PROFESSIONAL CERTIFICATIONS · GOOGLE & MICROSOFT**
+**OPEN SOURCE CONTRIBUTIONS**
 
 <br/>
 
-Comprehensive cybersecurity professional certificates covering enterprise security frameworks, cloud security, threat intelligence, and compliance.
+Built and released 28 production-ready CLI tools across five domains. Written in Python, TypeScript, JavaScript, Go, and Bash, each tool solves a single problem with minimal dependencies and clear documentation.
+
+This portfolio represents my approach to software—simple, focused, auditable, and useful. Every tool addresses a problem I encountered in my own security and development work.
+
+<br/>
+
+![](https://img.shields.io/badge/28_TOOLS-000000?style=flat)
+![](https://img.shields.io/badge/5_LANGUAGES-000000?style=flat)
+![](https://img.shields.io/badge/MIT_LICENSE-1EA64A?style=flat)
 
 <br/><br/>
 
-### 2023
+### 2024 · Certified
 
-**RESEARCH PUBLICATIONS · ACADEMIC JOURNALS**
+**GOOGLE & MICROSOFT CERTIFICATIONS**
 
 <br/>
 
-Co-authored two peer-reviewed articles in *Clinical Infectious Diseases* and *Expert Review of Anti-infective Therapy*.
+Completed professional cybersecurity certificates from Google and Microsoft, covering enterprise security frameworks, cloud security architecture, threat intelligence, incident response, and compliance methodologies.
+
+<br/>
+
+![](https://img.shields.io/badge/GOOGLE_VERIFIED-000000?style=flat)
+![](https://img.shields.io/badge/MICROSOFT_VERIFIED-000000?style=flat)
+
+<br/><br/>
+
+### 2023 · Published
+
+**ACADEMIC RESEARCH**
+
+<br/>
+
+Co-authored two peer-reviewed research articles published in *Clinical Infectious Diseases* (high-impact journal) and *Expert Review of Anti-infective Therapy*. Contributed to research design, data analysis, and manuscript preparation.
+
+<br/>
+
+![](https://img.shields.io/badge/2_PUBLICATIONS-000000?style=flat)
+![](https://img.shields.io/badge/PEER_REVIEWED-000000?style=flat)
 
 <br/>
 
@@ -475,22 +549,18 @@ Co-authored two peer-reviewed articles in *Clinical Infectious Diseases* and *Ex
 
 <div style="background: #F3C9B6; padding: 48px; border-radius: 24px;">
 
-## Contact
+## Get In Touch
 
 <br/>
 
-### Get In Touch
-
-<br/>
-
-Available for enterprise consulting engagements · Security research partnerships · Penetration testing contracts · Incident response retainers
+I'm open to security research collaborations, penetration testing projects, open-source contributions, speaking opportunities, and consulting engagements. I'm particularly interested in projects that sit at the intersection of offensive security and applied AI.
 
 <br/><br/>
 
 <div align="center">
 
-<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge" /></a>
-<a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge" /></a>
+<a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" /></a>
+<a href="mailto:contact@tauqeermustafa.tech"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge" /></a>
 <a href="https://linkedin.com/in/tauqeermustafa"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/TauqeerMustafa"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
@@ -498,27 +568,54 @@ Available for enterprise consulting engagements · Security research partnership
 
 <br/><br/>
 
-### Service Inquiries
+### What I'm Looking For
 
 <br/>
 
-| Security Consulting | Incident Response | Web Development | Open Source |
+| Security Projects | Research | Open Source | Speaking |
 |---|---|---|---|
-| Assessments · Audits · Compliance | 24/7 Emergency Response | Secure Platforms | Collaboration · Support |
-| security@tauqeermustafa.tech | incident@tauqeermustafa.tech | web@tauqeermustafa.tech | opensource@tauqeermustafa.tech |
+| Penetration testing contracts | Academic collaborations | Tool contributors | Conference talks |
+| Security assessments | AI security research | Code reviews | Workshop facilitation |
+| Incident response | Paper co-authorship | Feature requests | Technical writing |
+| Compliance advisory | Dataset collaboration | Bug reports | Podcast interviews |
 
 <br/><br/>
 
-### Business Information
+### How I Work
 
 <br/>
 
-| Company | Location | Response Time |
-|---|---|---|
-| Tauqeer Mustafa Inc. | Islamabad, Pakistan | < 24 hours |
-| Security · Development · Consulting | ![](https://img.shields.io/badge/AVAILABLE-1EA64A?style=flat) | Free Initial Assessment |
+**Response Time** — I typically respond to emails within 24 hours
+
+**Availability** — Open to consulting projects, research collaborations, and speaking engagements
+
+**Location** — Based in Islamabad, Pakistan · Available for remote work globally
+
+**Approach** — I prioritize clear communication, thorough documentation, and actionable deliverables
 
 <br/><br/>
+
+### Support My Work
+
+<br/>
+
+If my tools have been useful to you, consider:
+
+- Starring repositories you use
+- Opening issues for bugs or feature requests  
+- Contributing code or documentation
+- Sharing tools with your network
+- Sponsoring continued development
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sponsors/TauqeerMustafa"><img src="https://img.shields.io/badge/SPONSOR-000000?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
+
+</div>
+
+<br/>
 
 </div>
 
@@ -530,13 +627,17 @@ Available for enterprise consulting engagements · Security research partnership
 
 <div align="center">
 
-All tools maintained under **Tauqeer Mustafa Inc.** · MIT Licensed
+**Tauqeer Mustafa** · Cybersecurity Student · Researcher · Developer
 
-Last Updated: 2024
+Islamabad, Pakistan
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=000000&label=VIEWS)
+All tools MIT licensed unless otherwise specified
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=TauqeerMustafa&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 </div>
 
