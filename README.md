@@ -12,6 +12,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&color=58A6FF&style=flat-square&label=Profile+Views" />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Founder-Tauqeer%20Mustafa%20Inc.-10B981?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialization-Cybersecurity%20%26%20Penetration%20Testing-EA4335?style=flat-square&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frameworks-NIST%20CSF%202.0%20%7C%20CIS%20Controls%20v8-blue?style=flat-square&logo=shield" />
+  <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems%20%26%20Microservices-58A6FF?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-Level%204%20Dark%20Forest%20Green-238636?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
 </div>
 
 <br/>
