@@ -219,23 +219,18 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20-F59E0B?style=flat-square&logo=awesomelists&logoColor=white" height="26"/> GitHub Achievements & Honors
+## <img src="https://img.shields.io/badge/-%20-F59E0B?style=flat-square&logo=awesomelists&logoColor=white" height="26"/> GitHub Achievements Showcase
 
 <p align="center">
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95px" alt="Pull Shark Gold x3" title="Pull Shark (Gold x3)"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-92f1430932da.png" width="95px" alt="Pair Extraordinaire Gold x3" title="Pair Extraordinaire (Gold x3)"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be02db7b587d.png" width="95px" alt="YOLO" title="YOLO"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-e96a4c2fef76.png" width="95px" alt="Quickdraw" title="Quickdraw"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-5c325c3459c5.png" width="95px" alt="Galaxy Brain" title="Galaxy Brain"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b661cb9c34be.png" width="95px" alt="Starstruck" title="Starstruck"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/public-sponsor-default-871d343c5b52.png" width="95px" alt="Public Sponsor" title="Public Sponsor"></a>
-</p>
-
-<!-- DYNAMIC TROPHY RACK (Refreshes Automatically) -->
-<p align="center">
-  <a href="https://github.com/TauqeerMustafa?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="90px" alt="Pull Shark Gold x3" title="Pull Shark (Gold x3)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90px" alt="Pair Extraordinaire Gold x3" title="Pair Extraordinaire (Gold x3)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90px" alt="YOLO" title="YOLO"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90px" alt="Quickdraw" title="Quickdraw"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90px" alt="Galaxy Brain Gold" title="Galaxy Brain (Gold)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="90px" alt="Starstruck Gold" title="Starstruck (Gold)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90px" alt="Public Sponsor" title="Public Sponsor"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90px" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90px" alt="Mars 2020 Contributor" title="Mars 2020 Contributor"></a>
 </p>
 
 <!-- LIVE VERIFIED PROFILE BADGES -->
