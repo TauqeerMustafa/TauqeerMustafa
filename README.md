@@ -219,16 +219,16 @@ Small, focused command-line utilities for developers and security practitioners.
 
 <br/>
 
-## <img src="https://img.shields.io/badge/-%20-F59E0B?style=flat-square&logo=awesomelists&logoColor=white" height="26"/> GitHub Achievements Showcase
+## <img src="https://img.shields.io/badge/-%20-F59E0B?style=flat-square&logo=awesomelists&logoColor=white" height="26"/> GitHub Achievements & Honors
 
 <p align="center">
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100px" alt="Pull Shark"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-92f1430932da.png" width="100px" alt="Pair Extraordinaire"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be02db7b587d.png" width="100px" alt="YOLO"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-e96a4c2fef76.png" width="100px" alt="Quickdraw"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-5c325c3459c5.png" width="100px" alt="Galaxy Brain"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b661cb9c34be.png" width="100px" alt="Starstruck"></a>
-  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/public-sponsor-default-871d343c5b52.png" width="100px" alt="Public Sponsor"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95px" alt="Pull Shark Gold x3" title="Pull Shark (Gold x3)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-92f1430932da.png" width="95px" alt="Pair Extraordinaire Gold x3" title="Pair Extraordinaire (Gold x3)"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be02db7b587d.png" width="95px" alt="YOLO" title="YOLO"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-e96a4c2fef76.png" width="95px" alt="Quickdraw" title="Quickdraw"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/galaxy-brain-default-5c325c3459c5.png" width="95px" alt="Galaxy Brain" title="Galaxy Brain"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/starstruck-default-b661cb9c34be.png" width="95px" alt="Starstruck" title="Starstruck"></a>
+  <a href="https://github.com/TauqeerMustafa?tab=achievements"><img src="https://github.githubassets.com/assets/public-sponsor-default-871d343c5b52.png" width="95px" alt="Public Sponsor" title="Public Sponsor"></a>
 </p>
 
 <!-- DYNAMIC TROPHY RACK (Refreshes Automatically) -->
@@ -236,6 +236,14 @@ Small, focused command-line utilities for developers and security practitioners.
   <a href="https://github.com/TauqeerMustafa?tab=achievements">
     <img src="https://github-profile-trophy.vercel.app/?username=TauqeerMustafa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
+</p>
+
+<!-- LIVE VERIFIED PROFILE BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Pro_Member-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro" />
+  <img src="https://img.shields.io/badge/Commits-10,000+_SSS_Rank-ffd700?style=for-the-badge&logo=git&logoColor=black" alt="SSS Commits" />
+  <img src="https://img.shields.io/badge/Pull_Requests-130+_Gold_Tier-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Gold PRs" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-8957e5?style=for-the-badge&logo=probot&logoColor=white" alt="Active Developer" />
 </p>
 
 <br/>
