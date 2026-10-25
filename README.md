@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&customColorList=0,2,3,5,6&text=Tauqeer%20Mustafa&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security%20Consultant%20%C2%B7%20Founder%20%40%20TMI&descAlignY=58&descSize=18&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&customColorList=0,2,3,5,6&text=Tauqeer%20Mustafa&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Security%20Consultant%20%C2%B7%20Founder%20%40%20Qorlune%20LLC&descAlignY=58&descSize=18&descColor=8B949E" width="100%" />
 
 <p>
-  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.com"><img src="https://img.shields.io/badge/Portfolio-tauqeermustafa.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://qorlune.co.uk"><img src="https://img.shields.io/badge/Business-Qorlune_LLC-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:hello@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hello@tauqeermustafa.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=TauqeerMustafa&color=58A6FF&style=flat-square&label=Profile+Views" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Tauqeer%20Mustafa%20Inc.-10B981?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-Qorlune%20LLC-10B981?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Cybersecurity%20%26%20Penetration%20Testing-EA4335?style=flat-square&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Frameworks-NIST%20CSF%202.0%20%7C%20CIS%20Controls%20v8-blue?style=flat-square&logo=shield" />
   <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems%20%26%20Microservices-58A6FF?style=flat-square&logo=docker&logoColor=white" />
@@ -26,17 +26,18 @@
 
 ## <img src="https://img.shields.io/badge/-%20-1F6FEB?style=flat-square&logo=readthedocs&logoColor=white" height="26"/> About
 
-Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and run **[Tauqeer Mustafa Inc.](https://tauqeermustafa.tech)**, a digital agency delivering web development, cybersecurity, cloud engineering, and AI solutions.
+Full-stack engineer and security consultant based in Islamabad, Pakistan. I design and build secure, high-performance web platforms — from architecture through production — and lead **[Qorlune LLC](https://qorlune.co.uk)**, an engineering & security firm delivering web platforms, cloud architecture, and cybersecurity solutions.
 
 I treat security as part of the engineering process, not a final checklist — threat modeling happens at discovery, not after launch. Alongside client work, I build and publish open-source CLI tools for developers and security practitioners.
 
 ```yaml
-Role:        Full-Stack Engineer & Security Consultant
-Company:     Tauqeer Mustafa Inc. (TMI)
-Services:    Web Development · Cybersecurity · Cloud Engineering · AI Solutions
+Role:        Founder & Principal Architect
+Company:     Qorlune LLC (qorlune.co.uk)
+Portfolio:   tauqeermustafa.com
+Services:    Web Engineering · Cybersecurity · Cloud Infrastructure · AI Solutions
 Education:   BS Cybersecurity — Air University, Islamabad
-Location:    Islamabad, PK / Harrow, UK
-Status:      Open to select projects
+Location:    Islamabad, PK / London, UK
+Status:      Open to select enterprise projects
 ```
 
 <br/>
@@ -246,9 +247,9 @@ Small, focused command-line utilities for developers and security practitioners.
 ## <img src="https://img.shields.io/badge/-%20-EA4335?style=flat-square&logo=telegram&logoColor=white" height="26"/> Get in Touch
 
 <p align="center">
-  <a href="https://tauqeer.me"><img src="https://img.shields.io/badge/Portfolio-tauqeer.me-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://tauqeermustafa.tech"><img src="https://img.shields.io/badge/Agency-tauqeermustafa.tech-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:hello@tauqeermustafa.tech"><img src="https://img.shields.io/badge/Email-hello@tauqeermustafa.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tauqeermustafa.com"><img src="https://img.shields.io/badge/Portfolio-tauqeermustafa.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://qorlune.co.uk"><img src="https://img.shields.io/badge/Business-Qorlune_LLC-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:hello@tauqeermustafa.com"><img src="https://img.shields.io/badge/Email-hello@tauqeermustafa.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tauqeer-mustafa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/tauqeermustafa"><img src="https://img.shields.io/badge/X-Follow-000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
@@ -264,6 +265,6 @@ If any of my tools are useful to you, feel free to open issues or PRs.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&customColorList=0,2,3,5,6&section=footer&fontSize=0" width="100%" />
 
-<sub>Full-Stack Engineer and Security Consultant — Islamabad, PK / Harrow, UK</sub>
+<sub>Founder & Principal Architect at Qorlune LLC | Full-Stack Systems Engineer & Cybersecurity Consultant</sub>
 
 </div>
